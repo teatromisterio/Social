@@ -1,0 +1,232 @@
+{
+  "slug": "flagman",
+  "title": "Коллекция Флагман",
+  "notion": "https://app.notion.com/p/38e44613b1a88160be95d09268f799cc",
+  "date": "2026-07-01",
+  "items": [
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/flagman/stories/ru/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/flagman/stories/ru/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/flagman/stories/ru/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/flagman/stories/ru/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/flagman/stories/ru/05",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/flagman/stories/ru/06",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 7,
+      "file": "assets/flagman/stories/ru/07",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 8,
+      "file": "assets/flagman/stories/ru/08",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/flagman/stories/en/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/flagman/stories/en/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/flagman/stories/en/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/flagman/stories/en/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 5,
+      "file": "assets/flagman/stories/en/05",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 6,
+      "file": "assets/flagman/stories/en/06",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 7,
+      "file": "assets/flagman/stories/en/07",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 8,
+      "file": "assets/flagman/stories/en/08",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/flagman/posts/ru/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/flagman/posts/ru/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/flagman/posts/ru/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/flagman/posts/ru/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/flagman/posts/ru/05",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/flagman/posts/ru/06",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/flagman/posts/en/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/flagman/posts/en/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/flagman/posts/en/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/flagman/posts/en/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 5,
+      "file": "assets/flagman/posts/en/05",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 6,
+      "file": "assets/flagman/posts/en/06",
+      "w": 1080,
+      "h": 1350
+    }
+  ]
+}

@@ -1705,5 +1705,967 @@ window.CONTENT = [
     "h": 1350
    }
   ]
+ },
+ {
+  "slug": "rayban-odyssey",
+  "title": "Rayban Odyssey",
+  "notion": "https://app.notion.com/p/37a44613b1a881cca4fdcb0436dca798",
+  "date": "2026-08-06",
+  "created": "2026-06-09T22:53",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/rayban-odyssey/stories/ru/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/rayban-odyssey/stories/ru/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/rayban-odyssey/stories/ru/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/rayban-odyssey/stories/ru/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/rayban-odyssey/stories/ru/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/rayban-odyssey/stories/ru/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 7,
+    "file": "assets/rayban-odyssey/stories/ru/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 8,
+    "file": "assets/rayban-odyssey/stories/ru/08",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/rayban-odyssey/stories/en/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/rayban-odyssey/stories/en/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/rayban-odyssey/stories/en/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/rayban-odyssey/stories/en/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/rayban-odyssey/stories/en/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/rayban-odyssey/stories/en/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 7,
+    "file": "assets/rayban-odyssey/stories/en/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 8,
+    "file": "assets/rayban-odyssey/stories/en/08",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/rayban-odyssey/posts/ru/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/rayban-odyssey/posts/ru/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/rayban-odyssey/posts/ru/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/rayban-odyssey/posts/ru/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/rayban-odyssey/posts/ru/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/rayban-odyssey/posts/ru/06",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 7,
+    "file": "assets/rayban-odyssey/posts/ru/07",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/rayban-odyssey/posts/en/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/rayban-odyssey/posts/en/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/rayban-odyssey/posts/en/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/rayban-odyssey/posts/en/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/rayban-odyssey/posts/en/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/rayban-odyssey/posts/en/06",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 7,
+    "file": "assets/rayban-odyssey/posts/en/07",
+    "w": 1080,
+    "h": 1350
+   }
+  ]
+ },
+ {
+  "slug": "iphone-duo",
+  "title": "iPhone Duo",
+  "notion": "https://app.notion.com/p/39d44613b1a881c7bd88f5365d65e71d",
+  "date": "2026-07-15",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/iphone-duo/stories/ru/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/iphone-duo/stories/ru/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/iphone-duo/stories/ru/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/iphone-duo/stories/ru/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/iphone-duo/stories/ru/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/iphone-duo/stories/ru/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 7,
+    "file": "assets/iphone-duo/stories/ru/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/iphone-duo/stories/en/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/iphone-duo/stories/en/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/iphone-duo/stories/en/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/iphone-duo/stories/en/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/iphone-duo/stories/en/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/iphone-duo/stories/en/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 7,
+    "file": "assets/iphone-duo/stories/en/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/iphone-duo/posts/ru/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/iphone-duo/posts/ru/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/iphone-duo/posts/ru/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/iphone-duo/posts/ru/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/iphone-duo/posts/ru/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/iphone-duo/posts/ru/06",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 7,
+    "file": "assets/iphone-duo/posts/ru/07",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/iphone-duo/posts/en/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/iphone-duo/posts/en/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/iphone-duo/posts/en/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/iphone-duo/posts/en/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/iphone-duo/posts/en/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/iphone-duo/posts/en/06",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 7,
+    "file": "assets/iphone-duo/posts/en/07",
+    "w": 1080,
+    "h": 1350
+   }
+  ]
+ },
+ {
+  "slug": "flagman",
+  "title": "Коллекция Флагман",
+  "notion": "https://app.notion.com/p/38e44613b1a88160be95d09268f799cc",
+  "date": "2026-07-01",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/flagman/stories/ru/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/flagman/stories/ru/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/flagman/stories/ru/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/flagman/stories/ru/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/flagman/stories/ru/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/flagman/stories/ru/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 7,
+    "file": "assets/flagman/stories/ru/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 8,
+    "file": "assets/flagman/stories/ru/08",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/flagman/stories/en/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/flagman/stories/en/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/flagman/stories/en/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/flagman/stories/en/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/flagman/stories/en/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/flagman/stories/en/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 7,
+    "file": "assets/flagman/stories/en/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 8,
+    "file": "assets/flagman/stories/en/08",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/flagman/posts/ru/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/flagman/posts/ru/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/flagman/posts/ru/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/flagman/posts/ru/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/flagman/posts/ru/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/flagman/posts/ru/06",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/flagman/posts/en/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/flagman/posts/en/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/flagman/posts/en/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/flagman/posts/en/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/flagman/posts/en/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/flagman/posts/en/06",
+    "w": 1080,
+    "h": 1350
+   }
+  ]
+ },
+ {
+  "slug": "iphone-17-pro-sale",
+  "title": "Скидка 20% iPhone 17 Pro",
+  "notion": "https://app.notion.com/p/38a44613b1a8816eb1cdfed950af050f",
+  "date": "2026-06-26",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/iphone-17-pro-sale/stories/ru/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/iphone-17-pro-sale/stories/ru/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/iphone-17-pro-sale/stories/ru/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/iphone-17-pro-sale/stories/ru/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/iphone-17-pro-sale/stories/ru/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/iphone-17-pro-sale/stories/ru/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/iphone-17-pro-sale/posts/ru/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/iphone-17-pro-sale/posts/ru/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/iphone-17-pro-sale/posts/ru/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/iphone-17-pro-sale/posts/ru/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/iphone-17-pro-sale/posts/ru/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/iphone-17-pro-sale/posts/ru/06",
+    "w": 1080,
+    "h": 1350
+   }
+  ]
+ },
+ {
+  "slug": "magnetic-custom",
+  "title": "Магнитный кастом",
+  "notion": "https://app.notion.com/p/38444613b1a881db8b2bf085f098b4a6",
+  "date": "2026-06-20",
+  "created": "2026-06-19T05:44",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/magnetic-custom/stories/ru/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/magnetic-custom/stories/ru/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/magnetic-custom/stories/ru/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/magnetic-custom/stories/ru/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/magnetic-custom/stories/ru/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/magnetic-custom/stories/ru/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 7,
+    "file": "assets/magnetic-custom/stories/ru/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 8,
+    "file": "assets/magnetic-custom/stories/ru/08",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 9,
+    "file": "assets/magnetic-custom/stories/ru/09",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/magnetic-custom/stories/en/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/magnetic-custom/stories/en/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/magnetic-custom/stories/en/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/magnetic-custom/stories/en/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/magnetic-custom/stories/en/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/magnetic-custom/stories/en/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 7,
+    "file": "assets/magnetic-custom/stories/en/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 8,
+    "file": "assets/magnetic-custom/stories/en/08",
+    "w": 1080,
+    "h": 1920
+   }
+  ]
  }
 ];

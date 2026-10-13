@@ -117,6 +117,7 @@
 
     .group + .group { margin-top: 36px; }
     .group__label { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; font-weight: 700; font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--color-surface-dark); }
+    .group__note { font-weight: 400; letter-spacing: .04em; text-transform: none; color: var(--color-gold-on-light); }
     .group__label::after { content: ""; flex: 1; height: 1px; background: var(--line-gold); }
 
     .grid { display: grid; gap: 20px; }
@@ -312,10 +313,18 @@
     }
     function esc(s) { return String(s).replace(/[&<>"]/g, function (ch) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[ch]; }); }
 
+    // Изображения коллекции нужного типа на выбранном языке; если такой версии нет — на другом
+    function pick(c, k) {
+      var by = function (l) { return c.items.filter(function (it) { return it.kind === k && it.lang === l; }); };
+      var items = by(state.lang), fallback = false;
+      if (!items.length) { items = by(state.lang === 'ru' ? 'en' : 'ru'); fallback = items.length > 0; }
+      return { items: items.sort(function (a, b) { return a.n - b.n; }), fallback: fallback };
+    }
+
     // Статистика по выбранному языку
     function counts() {
       var r = { posts: 0, stories: 0 };
-      DATA.forEach(function (c) { c.items.forEach(function (it) { if (it.lang === state.lang) r[it.kind]++; }); });
+      DATA.forEach(function (c) { r.posts += pick(c, 'posts').items.length; r.stories += pick(c, 'stories').items.length; });
       r.all = r.posts + r.stories;
       return r;
     }
@@ -330,11 +339,11 @@
         var groups = '';
         var total = 0;
         kinds.forEach(function (k) {
-          var items = c.items.filter(function (it) { return it.kind === k && it.lang === state.lang; })
-                             .sort(function (a, b) { return a.n - b.n; });
+          var picked = pick(c, k), items = picked.items;
           if (!items.length) return;
           total += items.length;
-          groups += '<div class="group"><p class="group__label">' + KIND_PL[k] + ' · ' + items.length + '</p><div class="grid grid--' + k + '">';
+          groups += '<div class="group"><p class="group__label">' + KIND_PL[k] + ' · ' + items.length +
+            (picked.fallback ? ' <span class="group__note">' + (state.lang === 'en' ? 'Английской версии нет — показана русская' : 'Русской версии нет — показана английская') + '</span>' : '') + '</p><div class="grid grid--' + k + '">';
           items.forEach(function (it) {
             var idx = visible.length;
             visible.push({ c: c, it: it });

@@ -1,0 +1,104 @@
+{
+  "slug": "iphone-17-pro-sale",
+  "title": "Скидка 20% iPhone 17 Pro",
+  "notion": "https://app.notion.com/p/38a44613b1a8816eb1cdfed950af050f",
+  "date": "2026-06-26",
+  "items": [
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/iphone-17-pro-sale/stories/ru/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/iphone-17-pro-sale/stories/ru/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/iphone-17-pro-sale/stories/ru/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/iphone-17-pro-sale/stories/ru/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/iphone-17-pro-sale/stories/ru/05",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/iphone-17-pro-sale/stories/ru/06",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/iphone-17-pro-sale/posts/ru/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/iphone-17-pro-sale/posts/ru/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/iphone-17-pro-sale/posts/ru/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/iphone-17-pro-sale/posts/ru/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/iphone-17-pro-sale/posts/ru/05",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/iphone-17-pro-sale/posts/ru/06",
+      "w": 1080,
+      "h": 1350
+    }
+  ]
+}
