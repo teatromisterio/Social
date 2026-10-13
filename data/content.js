@@ -1956,6 +1956,746 @@ window.CONTENT = [
   ]
  },
  {
+  "slug": "legends-cinema",
+  "title": "Легенды Кино",
+  "notion": "https://app.notion.com/p/3ad44613b1a88106963df3a27e303d7a",
+  "date": "2026-07-30",
+  "created": "2026-07-30T15:59:20Z",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/legends-cinema/stories/ru/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/legends-cinema/stories/ru/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/legends-cinema/stories/ru/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/legends-cinema/stories/ru/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/legends-cinema/stories/ru/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/legends-cinema/stories/ru/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 7,
+    "file": "assets/legends-cinema/stories/ru/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/legends-cinema/stories/en/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/legends-cinema/stories/en/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/legends-cinema/stories/en/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/legends-cinema/stories/en/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/legends-cinema/stories/en/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/legends-cinema/stories/en/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 7,
+    "file": "assets/legends-cinema/stories/en/07",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/legends-cinema/posts/ru/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/legends-cinema/posts/ru/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/legends-cinema/posts/ru/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/legends-cinema/posts/ru/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/legends-cinema/posts/ru/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/legends-cinema/posts/ru/06",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 7,
+    "file": "assets/legends-cinema/posts/ru/07",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/legends-cinema/posts/en/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/legends-cinema/posts/en/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/legends-cinema/posts/en/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/legends-cinema/posts/en/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/legends-cinema/posts/en/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/legends-cinema/posts/en/06",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 7,
+    "file": "assets/legends-cinema/posts/en/07",
+    "w": 1080,
+    "h": 1350
+   }
+  ]
+ },
+ {
+  "slug": "iphone-duo-jobs",
+  "title": "iPhone Duo Jobs",
+  "notion": "https://app.notion.com/p/3a444613b1a88147ba19d56d2d297e7d",
+  "date": "2026-07-22",
+  "created": "2026-07-21T12:30:51Z",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/iphone-duo-jobs/stories/ru/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/iphone-duo-jobs/stories/ru/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/iphone-duo-jobs/stories/ru/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/iphone-duo-jobs/stories/ru/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/iphone-duo-jobs/stories/ru/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/iphone-duo-jobs/stories/ru/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/iphone-duo-jobs/stories/en/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/iphone-duo-jobs/stories/en/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/iphone-duo-jobs/stories/en/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/iphone-duo-jobs/stories/en/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/iphone-duo-jobs/stories/en/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/iphone-duo-jobs/stories/en/06",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/iphone-duo-jobs/posts/ru/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/iphone-duo-jobs/posts/ru/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/iphone-duo-jobs/posts/ru/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/iphone-duo-jobs/posts/ru/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/iphone-duo-jobs/posts/ru/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/iphone-duo-jobs/posts/ru/06",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/iphone-duo-jobs/posts/en/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/iphone-duo-jobs/posts/en/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/iphone-duo-jobs/posts/en/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/iphone-duo-jobs/posts/en/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/iphone-duo-jobs/posts/en/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/iphone-duo-jobs/posts/en/06",
+    "w": 1080,
+    "h": 1350
+   }
+  ]
+ },
+ {
+  "slug": "iphone-duo-haaland",
+  "title": "iPhone Duo Эрлинг Холанн",
+  "notion": "https://app.notion.com/p/39e44613b1a88166be10d26bfa14d08c",
+  "date": "2026-07-20",
+  "created": "2026-07-15T13:10:47Z",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/iphone-duo-haaland/stories/ru/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/iphone-duo-haaland/stories/ru/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/iphone-duo-haaland/stories/ru/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/iphone-duo-haaland/stories/ru/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/iphone-duo-haaland/stories/en/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/iphone-duo-haaland/stories/en/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/iphone-duo-haaland/stories/en/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/iphone-duo-haaland/stories/en/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/iphone-duo-haaland/posts/ru/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/iphone-duo-haaland/posts/ru/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/iphone-duo-haaland/posts/ru/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/iphone-duo-haaland/posts/ru/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/iphone-duo-haaland/posts/en/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/iphone-duo-haaland/posts/en/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/iphone-duo-haaland/posts/en/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/iphone-duo-haaland/posts/en/04",
+    "w": 1080,
+    "h": 1350
+   }
+  ]
+ },
+ {
+  "slug": "legends",
+  "title": "Легенды",
+  "notion": "https://app.notion.com/p/39f44613b1a881b29b92e74659bcd113",
+  "date": "2026-07-16",
+  "created": "2026-07-16T13:40:13Z",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/legends/stories/ru/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/legends/stories/ru/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/legends/stories/ru/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/legends/stories/ru/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/legends/stories/ru/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/legends/stories/en/01",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/legends/stories/en/02",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/legends/stories/en/03",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/legends/stories/en/04",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/legends/stories/en/05",
+    "w": 1080,
+    "h": 1920
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/legends/posts/ru/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/legends/posts/ru/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/legends/posts/ru/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/legends/posts/ru/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/legends/posts/ru/05",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/legends/posts/en/01",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/legends/posts/en/02",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/legends/posts/en/03",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/legends/posts/en/04",
+    "w": 1080,
+    "h": 1350
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/legends/posts/en/05",
+    "w": 1080,
+    "h": 1350
+   }
+  ]
+ },
+ {
   "slug": "iphone-duo",
   "title": "iPhone Duo",
   "notion": "https://app.notion.com/p/39d44613b1a881c7bd88f5365d65e71d",

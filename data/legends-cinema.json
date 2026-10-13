@@ -1,0 +1,233 @@
+{
+  "slug": "legends-cinema",
+  "title": "Легенды Кино",
+  "notion": "https://app.notion.com/p/3ad44613b1a88106963df3a27e303d7a",
+  "date": "2026-07-30",
+  "created": "2026-07-30T15:59:20Z",
+  "items": [
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/legends-cinema/stories/ru/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/legends-cinema/stories/ru/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/legends-cinema/stories/ru/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/legends-cinema/stories/ru/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/legends-cinema/stories/ru/05",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/legends-cinema/stories/ru/06",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 7,
+      "file": "assets/legends-cinema/stories/ru/07",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/legends-cinema/stories/en/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/legends-cinema/stories/en/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/legends-cinema/stories/en/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/legends-cinema/stories/en/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 5,
+      "file": "assets/legends-cinema/stories/en/05",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 6,
+      "file": "assets/legends-cinema/stories/en/06",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 7,
+      "file": "assets/legends-cinema/stories/en/07",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/legends-cinema/posts/ru/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/legends-cinema/posts/ru/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/legends-cinema/posts/ru/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/legends-cinema/posts/ru/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/legends-cinema/posts/ru/05",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/legends-cinema/posts/ru/06",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 7,
+      "file": "assets/legends-cinema/posts/ru/07",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/legends-cinema/posts/en/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/legends-cinema/posts/en/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/legends-cinema/posts/en/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/legends-cinema/posts/en/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 5,
+      "file": "assets/legends-cinema/posts/en/05",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 6,
+      "file": "assets/legends-cinema/posts/en/06",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 7,
+      "file": "assets/legends-cinema/posts/en/07",
+      "w": 1080,
+      "h": 1350
+    }
+  ]
+}

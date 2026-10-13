@@ -1,0 +1,137 @@
+{
+  "slug": "iphone-duo-haaland",
+  "title": "iPhone Duo Эрлинг Холанн",
+  "notion": "https://app.notion.com/p/39e44613b1a88166be10d26bfa14d08c",
+  "date": "2026-07-20",
+  "created": "2026-07-15T13:10:47Z",
+  "items": [
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/iphone-duo-haaland/stories/ru/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/iphone-duo-haaland/stories/ru/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/iphone-duo-haaland/stories/ru/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/iphone-duo-haaland/stories/ru/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/iphone-duo-haaland/stories/en/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/iphone-duo-haaland/stories/en/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/iphone-duo-haaland/stories/en/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/iphone-duo-haaland/stories/en/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/iphone-duo-haaland/posts/ru/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/iphone-duo-haaland/posts/ru/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/iphone-duo-haaland/posts/ru/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/iphone-duo-haaland/posts/ru/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/iphone-duo-haaland/posts/en/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/iphone-duo-haaland/posts/en/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/iphone-duo-haaland/posts/en/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/iphone-duo-haaland/posts/en/04",
+      "w": 1080,
+      "h": 1350
+    }
+  ]
+}

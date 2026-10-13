@@ -1,0 +1,201 @@
+{
+  "slug": "iphone-duo-jobs",
+  "title": "iPhone Duo Jobs",
+  "notion": "https://app.notion.com/p/3a444613b1a88147ba19d56d2d297e7d",
+  "date": "2026-07-22",
+  "created": "2026-07-21T12:30:51Z",
+  "items": [
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/iphone-duo-jobs/stories/ru/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/iphone-duo-jobs/stories/ru/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/iphone-duo-jobs/stories/ru/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/iphone-duo-jobs/stories/ru/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/iphone-duo-jobs/stories/ru/05",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/iphone-duo-jobs/stories/ru/06",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/iphone-duo-jobs/stories/en/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/iphone-duo-jobs/stories/en/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/iphone-duo-jobs/stories/en/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/iphone-duo-jobs/stories/en/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 5,
+      "file": "assets/iphone-duo-jobs/stories/en/05",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 6,
+      "file": "assets/iphone-duo-jobs/stories/en/06",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/iphone-duo-jobs/posts/ru/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/iphone-duo-jobs/posts/ru/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/iphone-duo-jobs/posts/ru/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/iphone-duo-jobs/posts/ru/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/iphone-duo-jobs/posts/ru/05",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/iphone-duo-jobs/posts/ru/06",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/iphone-duo-jobs/posts/en/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/iphone-duo-jobs/posts/en/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/iphone-duo-jobs/posts/en/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/iphone-duo-jobs/posts/en/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 5,
+      "file": "assets/iphone-duo-jobs/posts/en/05",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 6,
+      "file": "assets/iphone-duo-jobs/posts/en/06",
+      "w": 1080,
+      "h": 1350
+    }
+  ]
+}
