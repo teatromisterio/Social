@@ -10,7 +10,8 @@
       "n": 1,
       "file": "assets/iphone-18-pro-preorder/stories/ru/01",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 1
     },
     {
       "kind": "stories",
@@ -18,7 +19,8 @@
       "n": 2,
       "file": "assets/iphone-18-pro-preorder/stories/ru/02",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 4
     },
     {
       "kind": "stories",
@@ -26,7 +28,8 @@
       "n": 3,
       "file": "assets/iphone-18-pro-preorder/stories/ru/03",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 5
     },
     {
       "kind": "stories",
@@ -34,7 +37,8 @@
       "n": 4,
       "file": "assets/iphone-18-pro-preorder/stories/ru/04",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 6
     },
     {
       "kind": "stories",
@@ -42,7 +46,8 @@
       "n": 5,
       "file": "assets/iphone-18-pro-preorder/stories/ru/05",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 9
     },
     {
       "kind": "stories",
@@ -50,7 +55,8 @@
       "n": 6,
       "file": "assets/iphone-18-pro-preorder/stories/ru/06",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 10
     },
     {
       "kind": "stories",
@@ -58,7 +64,8 @@
       "n": 1,
       "file": "assets/iphone-18-pro-preorder/stories/en/01",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 1
     },
     {
       "kind": "stories",
@@ -66,7 +73,8 @@
       "n": 2,
       "file": "assets/iphone-18-pro-preorder/stories/en/02",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 4
     },
     {
       "kind": "stories",
@@ -74,7 +82,8 @@
       "n": 3,
       "file": "assets/iphone-18-pro-preorder/stories/en/03",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 5
     },
     {
       "kind": "stories",
@@ -82,7 +91,8 @@
       "n": 4,
       "file": "assets/iphone-18-pro-preorder/stories/en/04",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 6
     },
     {
       "kind": "stories",
@@ -90,7 +100,8 @@
       "n": 5,
       "file": "assets/iphone-18-pro-preorder/stories/en/05",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 9
     },
     {
       "kind": "stories",
@@ -98,7 +109,8 @@
       "n": 6,
       "file": "assets/iphone-18-pro-preorder/stories/en/06",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 10
     },
     {
       "kind": "posts",
@@ -106,7 +118,8 @@
       "n": 1,
       "file": "assets/iphone-18-pro-preorder/posts/ru/01",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 2
     },
     {
       "kind": "posts",
@@ -114,7 +127,8 @@
       "n": 2,
       "file": "assets/iphone-18-pro-preorder/posts/ru/02",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 5
     },
     {
       "kind": "posts",
@@ -122,7 +136,8 @@
       "n": 3,
       "file": "assets/iphone-18-pro-preorder/posts/ru/03",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 8
     },
     {
       "kind": "posts",
@@ -130,7 +145,8 @@
       "n": 1,
       "file": "assets/iphone-18-pro-preorder/posts/en/01",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 2
     },
     {
       "kind": "posts",
@@ -138,7 +154,8 @@
       "n": 2,
       "file": "assets/iphone-18-pro-preorder/posts/en/02",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 5
     },
     {
       "kind": "posts",
@@ -146,7 +163,206 @@
       "n": 3,
       "file": "assets/iphone-18-pro-preorder/posts/en/03",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 8
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 1,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/stories/ru/v01",
+      "w": 1080,
+      "h": 1920,
+      "duration": 13.5,
+      "pos": 2
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 2,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/stories/ru/v02",
+      "w": 1080,
+      "h": 1920,
+      "duration": 15.4,
+      "pos": 3
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 3,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/stories/ru/v03",
+      "w": 1080,
+      "h": 1920,
+      "duration": 16.8,
+      "pos": 7
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 4,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/stories/ru/v04",
+      "w": 1080,
+      "h": 1920,
+      "duration": 16.3,
+      "pos": 8
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 1,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/stories/en/v01",
+      "w": 1080,
+      "h": 1920,
+      "duration": 13.3,
+      "pos": 2
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 2,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/stories/en/v02",
+      "w": 1080,
+      "h": 1920,
+      "duration": 15.4,
+      "pos": 3
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 3,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/stories/en/v03",
+      "w": 1080,
+      "h": 1920,
+      "duration": 16.8,
+      "pos": 7
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 4,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/stories/en/v04",
+      "w": 1080,
+      "h": 1920,
+      "duration": 16.3,
+      "pos": 8
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 1,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/ru/v01",
+      "w": 1080,
+      "h": 1350,
+      "duration": 14.0,
+      "pos": 1
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 2,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/ru/v02",
+      "w": 1080,
+      "h": 1350,
+      "duration": 11.5,
+      "pos": 3
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 3,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/ru/v03",
+      "w": 1080,
+      "h": 1350,
+      "duration": 15.5,
+      "pos": 4
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 4,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/ru/v04",
+      "w": 1080,
+      "h": 1350,
+      "duration": 16.6,
+      "pos": 6
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 5,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/ru/v05",
+      "w": 1080,
+      "h": 1350,
+      "duration": 16.5,
+      "pos": 7
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 1,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/en/v01",
+      "w": 1080,
+      "h": 1350,
+      "duration": 14.0,
+      "pos": 1
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 2,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/en/v02",
+      "w": 1080,
+      "h": 1350,
+      "duration": 11.5,
+      "pos": 3
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 3,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/en/v03",
+      "w": 1080,
+      "h": 1350,
+      "duration": 15.5,
+      "pos": 4
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 4,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/en/v04",
+      "w": 1080,
+      "h": 1350,
+      "duration": 16.6,
+      "pos": 6
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 5,
+      "type": "video",
+      "file": "assets/iphone-18-pro-preorder/posts/en/v05",
+      "w": 1080,
+      "h": 1350,
+      "duration": 16.5,
+      "pos": 7
     }
   ]
 }

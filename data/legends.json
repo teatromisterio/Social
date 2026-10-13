@@ -11,7 +11,8 @@
       "n": 1,
       "file": "assets/legends/stories/ru/01",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 1
     },
     {
       "kind": "stories",
@@ -19,7 +20,8 @@
       "n": 2,
       "file": "assets/legends/stories/ru/02",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 2
     },
     {
       "kind": "stories",
@@ -27,7 +29,8 @@
       "n": 3,
       "file": "assets/legends/stories/ru/03",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 3
     },
     {
       "kind": "stories",
@@ -35,7 +38,8 @@
       "n": 4,
       "file": "assets/legends/stories/ru/04",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 4
     },
     {
       "kind": "stories",
@@ -43,7 +47,8 @@
       "n": 5,
       "file": "assets/legends/stories/ru/05",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 5
     },
     {
       "kind": "stories",
@@ -51,7 +56,8 @@
       "n": 1,
       "file": "assets/legends/stories/en/01",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 1
     },
     {
       "kind": "stories",
@@ -59,7 +65,8 @@
       "n": 2,
       "file": "assets/legends/stories/en/02",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 2
     },
     {
       "kind": "stories",
@@ -67,7 +74,8 @@
       "n": 3,
       "file": "assets/legends/stories/en/03",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 3
     },
     {
       "kind": "stories",
@@ -75,7 +83,8 @@
       "n": 4,
       "file": "assets/legends/stories/en/04",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 4
     },
     {
       "kind": "stories",
@@ -83,7 +92,8 @@
       "n": 5,
       "file": "assets/legends/stories/en/05",
       "w": 1080,
-      "h": 1920
+      "h": 1920,
+      "pos": 5
     },
     {
       "kind": "posts",
@@ -91,7 +101,8 @@
       "n": 1,
       "file": "assets/legends/posts/ru/01",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 1
     },
     {
       "kind": "posts",
@@ -99,7 +110,8 @@
       "n": 2,
       "file": "assets/legends/posts/ru/02",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 2
     },
     {
       "kind": "posts",
@@ -107,7 +119,8 @@
       "n": 3,
       "file": "assets/legends/posts/ru/03",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 3
     },
     {
       "kind": "posts",
@@ -115,7 +128,8 @@
       "n": 4,
       "file": "assets/legends/posts/ru/04",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 4
     },
     {
       "kind": "posts",
@@ -123,7 +137,8 @@
       "n": 5,
       "file": "assets/legends/posts/ru/05",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 6
     },
     {
       "kind": "posts",
@@ -131,7 +146,8 @@
       "n": 1,
       "file": "assets/legends/posts/en/01",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 1
     },
     {
       "kind": "posts",
@@ -139,7 +155,8 @@
       "n": 2,
       "file": "assets/legends/posts/en/02",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 2
     },
     {
       "kind": "posts",
@@ -147,7 +164,8 @@
       "n": 3,
       "file": "assets/legends/posts/en/03",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 3
     },
     {
       "kind": "posts",
@@ -155,7 +173,8 @@
       "n": 4,
       "file": "assets/legends/posts/en/04",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 4
     },
     {
       "kind": "posts",
@@ -163,7 +182,52 @@
       "n": 5,
       "file": "assets/legends/posts/en/05",
       "w": 1080,
-      "h": 1350
+      "h": 1350,
+      "pos": 6
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 1,
+      "type": "video",
+      "file": "assets/legends/stories/ru/v01",
+      "w": 1080,
+      "h": 1920,
+      "duration": 24.1,
+      "pos": 6
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 1,
+      "type": "video",
+      "file": "assets/legends/stories/en/v01",
+      "w": 1080,
+      "h": 1920,
+      "duration": 24.1,
+      "pos": 6
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 1,
+      "type": "video",
+      "file": "assets/legends/posts/ru/v01",
+      "w": 1080,
+      "h": 1350,
+      "duration": 24.3,
+      "pos": 5
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 1,
+      "type": "video",
+      "file": "assets/legends/posts/en/v01",
+      "w": 1080,
+      "h": 1350,
+      "duration": 24.2,
+      "pos": 5
     }
   ]
 }

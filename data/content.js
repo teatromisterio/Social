@@ -944,6 +944,18 @@ window.CONTENT = [
    {
     "kind": "ads",
     "lang": "en",
+    "n": 1,
+    "type": "video",
+    "file": "assets/target-ads/ads/en/v01",
+    "w": 1080,
+    "h": 1920,
+    "duration": 18.4,
+    "label": "Чёрный Принц",
+    "pos": 7
+   },
+   {
+    "kind": "ads",
+    "lang": "en",
     "n": 7,
     "file": "assets/target-ads/ads/en/07",
     "w": 1080,
@@ -970,6 +982,18 @@ window.CONTENT = [
     "h": 1350,
     "label": "Duo + 18",
     "pos": 10
+   },
+   {
+    "kind": "ads",
+    "lang": "en",
+    "n": 2,
+    "type": "video",
+    "file": "assets/target-ads/ads/en/v02",
+    "w": 1080,
+    "h": 1920,
+    "duration": 23.5,
+    "label": "Duo + 18",
+    "pos": 11
    },
    {
     "kind": "ads",
@@ -1094,6 +1118,18 @@ window.CONTENT = [
    {
     "kind": "ads",
     "lang": "en",
+    "n": 3,
+    "type": "video",
+    "file": "assets/target-ads/ads/en/v03",
+    "w": 1080,
+    "h": 1920,
+    "duration": 21.7,
+    "label": "Reward",
+    "pos": 24
+   },
+   {
+    "kind": "ads",
+    "lang": "en",
     "n": 22,
     "file": "assets/target-ads/ads/en/22",
     "w": 1080,
@@ -1174,6 +1210,18 @@ window.CONTENT = [
    {
     "kind": "ads",
     "lang": "en",
+    "n": 4,
+    "type": "video",
+    "file": "assets/target-ads/ads/en/v04",
+    "w": 1080,
+    "h": 1920,
+    "duration": 27.7,
+    "label": "Statement",
+    "pos": 33
+   },
+   {
+    "kind": "ads",
+    "lang": "en",
     "n": 30,
     "file": "assets/target-ads/ads/en/30",
     "w": 1080,
@@ -1220,6 +1268,18 @@ window.CONTENT = [
     "h": 1350,
     "label": "Exclusive",
     "pos": 38
+   },
+   {
+    "kind": "ads",
+    "lang": "en",
+    "n": 5,
+    "type": "video",
+    "file": "assets/target-ads/ads/en/v05",
+    "w": 1080,
+    "h": 1920,
+    "duration": 20.4,
+    "label": "Exclusive",
+    "pos": 39
    },
    {
     "kind": "ads",
@@ -1290,6 +1350,18 @@ window.CONTENT = [
     "h": 1350,
     "label": "Dubai",
     "pos": 46
+   },
+   {
+    "kind": "ads",
+    "lang": "en",
+    "n": 6,
+    "type": "video",
+    "file": "assets/target-ads/ads/en/v06",
+    "w": 1080,
+    "h": 1920,
+    "duration": 50.2,
+    "label": "Dubai",
+    "pos": 47
    }
   ]
  },
@@ -1838,6 +1910,26 @@ window.CONTENT = [
   ]
  },
  {
+  "slug": "rayban-2",
+  "title": "Rayban 2",
+  "notion": "https://app.notion.com/p/3c844613b1a88127bd52f8a387e071e0",
+  "date": "2026-08-26",
+  "created": "2026-08-26T13:03",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "type": "video",
+    "file": "assets/rayban-2/stories/ru/v01",
+    "w": 1080,
+    "h": 1920,
+    "duration": 20.2,
+    "pos": 1
+   }
+  ]
+ },
+ {
   "slug": "iphone-duo-preorder",
   "title": "Предзаказ iPhone Duo",
   "notion": "https://app.notion.com/p/3c044613b1a8811f981dc9cc1e817ec5",
@@ -1986,6 +2078,204 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350,
     "pos": 8
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/stories/ru/v01",
+    "w": 1080,
+    "h": 1920,
+    "duration": 15.7,
+    "pos": 2
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/stories/ru/v02",
+    "w": 1080,
+    "h": 1920,
+    "duration": 59.7,
+    "pos": 3
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/stories/ru/v03",
+    "w": 1080,
+    "h": 1920,
+    "duration": 11.4,
+    "pos": 6
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/stories/ru/v04",
+    "w": 1080,
+    "h": 1920,
+    "duration": 40.4,
+    "pos": 7
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/stories/en/v01",
+    "w": 1080,
+    "h": 1920,
+    "duration": 15.4,
+    "pos": 2
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/stories/en/v02",
+    "w": 1080,
+    "h": 1920,
+    "duration": 59.7,
+    "pos": 3
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/stories/en/v03",
+    "w": 1080,
+    "h": 1920,
+    "duration": 11.3,
+    "pos": 6
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/stories/en/v04",
+    "w": 1080,
+    "h": 1920,
+    "duration": 40.4,
+    "pos": 7
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/ru/v01",
+    "w": 1080,
+    "h": 1350,
+    "duration": 15.8,
+    "pos": 1
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/ru/v02",
+    "w": 1080,
+    "h": 1350,
+    "duration": 15.8,
+    "pos": 3
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/ru/v03",
+    "w": 1080,
+    "h": 1350,
+    "duration": 59.3,
+    "pos": 4
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/ru/v04",
+    "w": 1080,
+    "h": 1350,
+    "duration": 11.5,
+    "pos": 6
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/ru/v05",
+    "w": 1080,
+    "h": 1350,
+    "duration": 40.4,
+    "pos": 7
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/en/v01",
+    "w": 1080,
+    "h": 1350,
+    "duration": 15.8,
+    "pos": 1
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/en/v02",
+    "w": 1080,
+    "h": 1350,
+    "duration": 15.6,
+    "pos": 3
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/en/v03",
+    "w": 1080,
+    "h": 1350,
+    "duration": 59.3,
+    "pos": 4
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/en/v04",
+    "w": 1080,
+    "h": 1350,
+    "duration": 11.2,
+    "pos": 6
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 5,
+    "type": "video",
+    "file": "assets/iphone-duo-preorder/posts/en/v05",
+    "w": 1080,
+    "h": 1350,
+    "duration": 40.4,
+    "pos": 7
    }
   ]
  },
@@ -2156,6 +2446,204 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350,
     "pos": 8
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/stories/ru/v01",
+    "w": 1080,
+    "h": 1920,
+    "duration": 13.5,
+    "pos": 2
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/stories/ru/v02",
+    "w": 1080,
+    "h": 1920,
+    "duration": 15.4,
+    "pos": 3
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/stories/ru/v03",
+    "w": 1080,
+    "h": 1920,
+    "duration": 16.8,
+    "pos": 7
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/stories/ru/v04",
+    "w": 1080,
+    "h": 1920,
+    "duration": 16.3,
+    "pos": 8
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/stories/en/v01",
+    "w": 1080,
+    "h": 1920,
+    "duration": 13.3,
+    "pos": 2
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/stories/en/v02",
+    "w": 1080,
+    "h": 1920,
+    "duration": 15.4,
+    "pos": 3
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/stories/en/v03",
+    "w": 1080,
+    "h": 1920,
+    "duration": 16.8,
+    "pos": 7
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/stories/en/v04",
+    "w": 1080,
+    "h": 1920,
+    "duration": 16.3,
+    "pos": 8
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/ru/v01",
+    "w": 1080,
+    "h": 1350,
+    "duration": 14.0,
+    "pos": 1
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/ru/v02",
+    "w": 1080,
+    "h": 1350,
+    "duration": 11.5,
+    "pos": 3
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/ru/v03",
+    "w": 1080,
+    "h": 1350,
+    "duration": 15.5,
+    "pos": 4
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/ru/v04",
+    "w": 1080,
+    "h": 1350,
+    "duration": 16.6,
+    "pos": 6
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/ru/v05",
+    "w": 1080,
+    "h": 1350,
+    "duration": 16.5,
+    "pos": 7
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/en/v01",
+    "w": 1080,
+    "h": 1350,
+    "duration": 14.0,
+    "pos": 1
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/en/v02",
+    "w": 1080,
+    "h": 1350,
+    "duration": 11.5,
+    "pos": 3
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/en/v03",
+    "w": 1080,
+    "h": 1350,
+    "duration": 15.5,
+    "pos": 4
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/en/v04",
+    "w": 1080,
+    "h": 1350,
+    "duration": 16.6,
+    "pos": 6
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 5,
+    "type": "video",
+    "file": "assets/iphone-18-pro-preorder/posts/en/v05",
+    "w": 1080,
+    "h": 1350,
+    "duration": 16.5,
+    "pos": 7
    }
   ]
  },
@@ -3165,6 +3653,50 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350,
     "pos": 6
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "type": "video",
+    "file": "assets/legends/stories/ru/v01",
+    "w": 1080,
+    "h": 1920,
+    "duration": 24.1,
+    "pos": 6
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "type": "video",
+    "file": "assets/legends/stories/en/v01",
+    "w": 1080,
+    "h": 1920,
+    "duration": 24.1,
+    "pos": 6
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "type": "video",
+    "file": "assets/legends/posts/ru/v01",
+    "w": 1080,
+    "h": 1350,
+    "duration": 24.3,
+    "pos": 5
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "type": "video",
+    "file": "assets/legends/posts/en/v01",
+    "w": 1080,
+    "h": 1350,
+    "duration": 24.2,
+    "pos": 5
    }
   ]
  },
@@ -3629,6 +4161,26 @@ window.CONTENT = [
     "file": "assets/flagman/posts/en/06",
     "w": 1080,
     "h": 1350
+   }
+  ]
+ },
+ {
+  "slug": "magnetic-dubai",
+  "title": "Наличие магнитных кастомов в Дубаи",
+  "notion": "https://app.notion.com/p/38b44613b1a881059234eccf2d8835b8",
+  "date": "2026-06-29",
+  "created": "2026-06-26T13:15",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "type": "video",
+    "file": "assets/magnetic-dubai/stories/ru/v01",
+    "w": 1080,
+    "h": 1920,
+    "duration": 9.1,
+    "pos": 1
    }
   ]
  },

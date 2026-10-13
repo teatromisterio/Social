@@ -11,7 +11,7 @@ for path in glob.glob(os.path.join(ROOT, "data", "*.json")):
     with open(path, encoding="utf-8") as f:
         card = json.load(f)
     card["items"] = [i for i in card.get("items", [])
-                     if os.path.exists(os.path.join(ROOT, i["file"] + ".jpg"))]
+                     if os.path.exists(os.path.join(ROOT, i["file"] + (".mp4" if i.get("type") == "video" else ".jpg")))]
     if card["items"]:
         cards.append(card)
 
@@ -23,4 +23,6 @@ with open(os.path.join(ROOT, "data", "content.js"), "w", encoding="utf-8") as f:
     json.dump(cards, f, ensure_ascii=False, indent=1)
     f.write(";\n")
 
-print(f"{len(cards)} collections, {sum(len(c['items']) for c in cards)} images")
+items = [i for c in cards for i in c["items"]]
+videos = sum(1 for i in items if i.get("type") == "video")
+print(f"{len(cards)} collections, {len(items) - videos} images, {videos} videos")
