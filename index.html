@@ -121,7 +121,7 @@
     .group__label::after { content: ""; flex: 1; height: 1px; background: var(--line-gold); }
 
     .grid { display: grid; gap: 20px; }
-    .grid--posts { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+    .grid--posts, .grid--ads { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
     .grid--stories { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
 
     .tile { position: relative; background: #fff; box-shadow: 0 10px 30px rgba(13,17,23,0.08); }
@@ -138,9 +138,9 @@
     }
     .tile__dl:hover { background: var(--color-brand-accent); color: #fff; }
     .tile__dl svg { width: 13px; height: 13px; }
-    .tile__name { white-space: nowrap; }
-    .grid--stories .tile__bar { flex-direction: column; align-items: stretch; gap: 8px; }
-    .grid--stories .tile__dl { justify-content: center; }
+    .tile__name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+    .grid--stories .tile__bar, .grid--ads .tile__bar { flex-direction: column; align-items: stretch; gap: 8px; }
+    .grid--stories .tile__dl, .grid--ads .tile__dl { justify-content: center; }
 
     .toast {
       position: fixed; left: 50%; bottom: 24px; z-index: 60; width: max-content; max-width: calc(100% - 32px);
@@ -194,7 +194,7 @@
       .collection__title { font-size: 32px; }
       .collection__head .btn { width: 100%; }
       .grid { gap: 12px; }
-      .grid--posts, .grid--stories { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .grid--posts, .grid--stories, .grid--ads { grid-template-columns: repeat(2, minmax(0, 1fr)); }
       .tile__bar { flex-direction: column; align-items: stretch; padding: 8px; }
       .tile__dl { justify-content: center; }
       .viewer { padding: 16px; }
@@ -238,6 +238,7 @@
         <button class="chip" type="button" data-kind="all" aria-pressed="true">Всё <span class="chip__count" data-count="all"></span></button>
         <button class="chip" type="button" data-kind="posts" aria-pressed="false">Посты <span class="chip__count" data-count="posts"></span></button>
         <button class="chip" type="button" data-kind="stories" aria-pressed="false">Сторис <span class="chip__count" data-count="stories"></span></button>
+        <button class="chip" type="button" data-kind="ads" aria-pressed="false" hidden>Реклама <span class="chip__count" data-count="ads"></span></button>
       </div>
     </div>
     <div class="controls__group">
@@ -279,8 +280,9 @@
   <script>
   (function () {
     var DATA = window.CONTENT || [];
-    var KIND = { posts: 'Пост', stories: 'Сторис' };
-    var KIND_PL = { posts: 'Посты', stories: 'Сторис' };
+    var KIND = { posts: 'Пост', stories: 'Сторис', ads: 'Креатив' };
+    var KIND_PL = { posts: 'Посты', stories: 'Сторис', ads: 'Рекламные креативы' };
+    var KIND_FILE = { posts: 'post', stories: 'story', ads: 'ad' };
     var MONTHS = ['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
     var DL_ICON = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 2v8m0 0 3.5-3.5M8 10 4.5 6.5M2.5 13.5h11"/></svg>';
 
@@ -309,7 +311,7 @@
       return +p[2] + ' ' + MONTHS[+p[1] - 1] + ' ' + p[0];
     }
     function fileName(c, it) {
-      return 'caviar_' + c.slug + '_' + (it.kind === 'posts' ? 'post' : 'story') + '_' + it.lang + '_' + String(it.n).padStart(2, '0') + '.jpg';
+      return 'caviar_' + c.slug + '_' + KIND_FILE[it.kind] + '_' + it.lang + '_' + String(it.n).padStart(2, '0') + '.jpg';
     }
     function esc(s) { return String(s).replace(/[&<>"]/g, function (ch) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[ch]; }); }
 
@@ -323,9 +325,9 @@
 
     // Статистика по выбранному языку
     function counts() {
-      var r = { posts: 0, stories: 0 };
-      DATA.forEach(function (c) { r.posts += pick(c, 'posts').items.length; r.stories += pick(c, 'stories').items.length; });
-      r.all = r.posts + r.stories;
+      var r = { posts: 0, stories: 0, ads: 0 };
+      DATA.forEach(function (c) { ['posts', 'stories', 'ads'].forEach(function (k) { r[k] += pick(c, k).items.length; }); });
+      r.all = r.posts + r.stories + r.ads;
       return r;
     }
 
@@ -333,7 +335,7 @@
       visible = [];
       var html = '';
       var newest = DATA.length ? DATA[0].date : null;
-      var kinds = state.kind === 'all' ? ['posts', 'stories'] : [state.kind];
+      var kinds = state.kind === 'all' ? ['posts', 'stories', 'ads'] : [state.kind];
 
       DATA.forEach(function (c) {
         var groups = '';
@@ -347,7 +349,7 @@
           items.forEach(function (it) {
             var idx = visible.length;
             visible.push({ c: c, it: it });
-            var label = KIND[k] + ' ' + String(it.n).padStart(2, '0');
+            var label = KIND[k] + ' ' + String(it.n).padStart(2, '0') + (it.label ? ' · ' + it.label : '');
             groups += '<figure class="tile reveal">' +
               '<button class="tile__open" type="button" data-idx="' + idx + '" aria-label="Открыть: ' + esc(c.title) + ', ' + label + '">' +
               '<img src="' + it.file + '.webp" width="' + it.w + '" height="' + it.h + '" loading="lazy" decoding="async" alt="' + esc(c.title) + ' — ' + label.toLowerCase() + '">' +
@@ -380,6 +382,7 @@
         b.setAttribute('aria-pressed', String(b.dataset.kind === state.kind));
       });
       document.querySelectorAll('[data-count]').forEach(function (el) { el.textContent = n[el.dataset.count]; });
+      document.querySelector('[data-kind="ads"]').hidden = !n.ads && state.kind !== 'ads';
       var sw = document.getElementById('langSwitch');
       sw.setAttribute('aria-checked', String(state.lang === 'en'));
       document.querySelectorAll('[data-lang-label]').forEach(function (el) {
@@ -520,7 +523,7 @@
       var v = visible[cur];
       vImg.src = v.it.file + '.jpg';
       vImg.alt = v.c.title + ' — ' + KIND[v.it.kind].toLowerCase() + ' ' + v.it.n;
-      vCap.textContent = v.c.title + ' · ' + KIND[v.it.kind] + ' ' + String(v.it.n).padStart(2, '0') + ' · ' + v.it.lang.toUpperCase();
+      vCap.textContent = v.c.title + ' · ' + KIND[v.it.kind] + ' ' + String(v.it.n).padStart(2, '0') + (v.it.label ? ' · ' + v.it.label : '') + ' · ' + v.it.lang.toUpperCase();
       vDl.href = v.it.file + '.jpg';
       vDl.setAttribute('download', fileName(v.c, v.it));
       if (SHARE) loadFile({ href: vDl.getAttribute('href'), name: vDl.getAttribute('download') });
