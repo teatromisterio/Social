@@ -141,6 +141,14 @@
     .grid--stories .tile__bar { flex-direction: column; align-items: stretch; gap: 8px; }
     .grid--stories .tile__dl { justify-content: center; }
 
+    .toast {
+      position: fixed; left: 50%; bottom: 24px; z-index: 60; width: max-content; max-width: calc(100% - 32px);
+      transform: translate(-50%, 20px); opacity: 0; pointer-events: none;
+      padding: 14px 20px; background: var(--color-ink-deep); border: 1px solid var(--color-brand-accent);
+      font-size: 14px; line-height: 20px; color: var(--color-surface-light); text-align: center;
+      transition: opacity .3s ease, transform .4s var(--ease-out-expo);
+    }
+    .toast.is-shown { opacity: 1; transform: translate(-50%, 0); }
     .empty { padding: 96px 0; text-align: center; font-size: 17px; line-height: 24px; color: #6b6b73; }
 
     /* ===== Просмотр ===== */
@@ -263,6 +271,8 @@
     </button>
   </div>
 
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
   <script src="data/content.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" defer></script>
   <script>
@@ -272,6 +282,15 @@
     var KIND_PL = { posts: 'Посты', stories: 'Сторис' };
     var MONTHS = ['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
     var DL_ICON = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 2v8m0 0 3.5-3.5M8 10 4.5 6.5M2.5 13.5h11"/></svg>';
+
+    // На телефонах сохраняем через системное меню «Поделиться»: на iPhone там есть
+    // «Сохранить изображение», которое кладёт файл в Фото, а не в «Файлы».
+    var SHARE = (function () {
+      try {
+        return window.matchMedia('(pointer: coarse)').matches && !!navigator.canShare &&
+          navigator.canShare({ files: [new File([''], 'a.jpg', { type: 'image/jpeg' })] });
+      } catch (e) { return false; }
+    })();
 
     var state = { kind: 'all', lang: 'ru' };
     try {
@@ -325,7 +344,7 @@
               '<img src="' + it.file + '.webp" width="' + it.w + '" height="' + it.h + '" loading="lazy" decoding="async" alt="' + esc(c.title) + ' — ' + label.toLowerCase() + '">' +
               '</button>' +
               '<figcaption class="tile__bar"><span class="tile__name">' + label + '</span>' +
-              '<a class="tile__dl" href="' + it.file + '.jpg" download="' + fileName(c, it) + '">' + DL_ICON + 'Скачать</a></figcaption>' +
+              '<a class="tile__dl" href="' + it.file + '.jpg" download="' + fileName(c, it) + '">' + DL_ICON + (SHARE ? 'Сохранить' : 'Скачать') + '</a></figcaption>' +
               '</figure>';
           });
           groups += '</div></div>';
@@ -337,7 +356,7 @@
               '<p class="collection__eyebrow">' + fmtDate(c.date) + '</p>' +
               '<h2 class="collection__title">' + esc(c.title) + (c.date === newest ? '<span class="collection__new">Новое</span>' : '') + '</h2>' +
             '</div>' +
-            '<button class="btn" type="button" data-zip="' + c.slug + '">' + DL_ICON + 'Скачать все · ' + total + '</button>' +
+            '<button class="btn" type="button" data-zip="' + c.slug + '">' + DL_ICON + (SHARE ? 'Сохранить все · ' : 'Скачать все · ') + total + '</button>' +
           '</div>' + groups + '</section>';
       });
 
@@ -381,7 +400,9 @@
     // Скачать коллекцию одним архивом
     feed.addEventListener('click', function (e) {
       var zipBtn = e.target.closest('[data-zip]');
-      if (zipBtn) { downloadZip(zipBtn); return; }
+      if (zipBtn) { SHARE ? shareCollection(zipBtn) : downloadZip(zipBtn); return; }
+      var dl = e.target.closest('.tile__dl');
+      if (dl && SHARE) { e.preventDefault(); shareFiles([{ href: dl.getAttribute('href'), name: dl.getAttribute('download') }], dl); return; }
       var open = e.target.closest('.tile__open');
       if (open) openViewer(+open.dataset.idx);
     });
@@ -408,6 +429,77 @@
       document.body.appendChild(a); a.click(); a.remove();
     }
 
+    // ===== Сохранение в Фото (телефоны) =====
+    var files = {};   // href -> File (готовые)
+    var loading = {}; // href -> Promise<File>
+    function loadFile(x) {
+      if (files[x.href]) return Promise.resolve(files[x.href]);
+      if (!loading[x.href]) {
+        loading[x.href] = fetch(x.href).then(function (r) { return r.blob(); }).then(function (b) {
+          files[x.href] = new File([b], x.name, { type: 'image/jpeg' });
+          return files[x.href];
+        });
+        loading[x.href].catch(function () { delete loading[x.href]; });
+      }
+      return loading[x.href];
+    }
+    function collectionFiles(slug) {
+      return visible.filter(function (v) { return v.c.slug === slug; })
+        .map(function (v) { return { href: v.it.file + '.jpg', name: fileName(v.c, v.it) }; });
+    }
+    function shareFiles(list, btn) {
+      var ready = list.every(function (x) { return files[x.href]; });
+      if (ready) {
+        // Вызов прямо в обработчике нажатия — иначе Safari не откроет меню
+        navigator.share({ files: list.map(function (x) { return files[x.href]; }) })
+          .then(function () { if (btn) btn.classList.remove('is-ready'); })
+          .catch(function (err) {
+            if (err && err.name === 'AbortError') return;
+            list.forEach(function (x) { triggerDl(x.href, x.name); });
+          });
+        hint();
+        return;
+      }
+      var label = btn ? btn.innerHTML : '';
+      if (btn) { btn.style.pointerEvents = 'none'; btn.innerHTML = DL_ICON + 'Загружаем…'; }
+      Promise.all(list.map(loadFile)).then(function (fs) {
+        if (btn) { btn.style.pointerEvents = ''; btn.innerHTML = label; }
+        return navigator.share({ files: fs }).then(function () {}, function (err) {
+          if (err && err.name === 'AbortError') return;
+          // Загрузка заняла время, и Safari потерял нажатие — просим нажать ещё раз, файлы уже готовы
+          if (btn) { btn.innerHTML = DL_ICON + 'Готово — нажмите ещё раз'; }
+          toast('Изображения загружены. Нажмите кнопку ещё раз.');
+        });
+      }, function () {
+        if (btn) { btn.style.pointerEvents = ''; btn.innerHTML = label; }
+        list.forEach(function (x) { triggerDl(x.href, x.name); });
+      });
+      hint();
+    }
+    function shareCollection(btn) { shareFiles(collectionFiles(btn.dataset.zip), btn); }
+
+    // Начинаем загрузку ещё при касании — к моменту отпускания файл часто уже готов
+    if (SHARE) {
+      document.addEventListener('touchstart', function (e) {
+        var dl = e.target.closest('.tile__dl');
+        if (dl) loadFile({ href: dl.getAttribute('href'), name: dl.getAttribute('download') });
+        var z = e.target.closest('[data-zip]');
+        if (z) collectionFiles(z.dataset.zip).forEach(loadFile);
+      }, { passive: true });
+    }
+
+    var toastEl = document.getElementById('toast'), toastTimer;
+    function toast(text) {
+      toastEl.textContent = text; toastEl.classList.add('is-shown');
+      clearTimeout(toastTimer); toastTimer = setTimeout(function () { toastEl.classList.remove('is-shown'); }, 4000);
+    }
+    var hinted = false;
+    function hint() {
+      if (hinted) return; hinted = true;
+      try { if (localStorage.getItem('caviar-social-hint')) return; localStorage.setItem('caviar-social-hint', '1'); } catch (e) {}
+      toast('В меню выберите «Сохранить изображение» — фото появится в Фотоплёнке.');
+    }
+
     // Просмотр
     var viewer = document.getElementById('viewer');
     var vImg = document.getElementById('viewerImg');
@@ -422,8 +514,16 @@
       vCap.textContent = v.c.title + ' · ' + KIND[v.it.kind] + ' ' + String(v.it.n).padStart(2, '0') + ' · ' + v.it.lang.toUpperCase();
       vDl.href = v.it.file + '.jpg';
       vDl.setAttribute('download', fileName(v.c, v.it));
+      if (SHARE) loadFile({ href: vDl.getAttribute('href'), name: vDl.getAttribute('download') });
       viewer.classList.add('is-open');
       document.body.style.overflow = 'hidden';
+    }
+    if (SHARE) {
+      vDl.lastChild.textContent = ' Сохранить в Фото';
+      vDl.addEventListener('click', function (e) {
+        e.preventDefault();
+        shareFiles([{ href: vDl.getAttribute('href'), name: vDl.getAttribute('download') }], null);
+      });
     }
     function closeViewer() { viewer.classList.remove('is-open'); document.body.style.overflow = ''; vImg.removeAttribute('src'); }
     viewer.addEventListener('click', function (e) {
