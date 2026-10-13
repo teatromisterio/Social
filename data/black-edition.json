@@ -1,0 +1,376 @@
+{
+  "slug": "black-edition",
+  "title": "Black Edition",
+  "notion": "https://app.notion.com/p/3e944613b1a8819c8a31d4e953702745",
+  "date": "2026-09-30",
+  "items": [
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/black-edition/stories/ru/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/black-edition/stories/ru/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/black-edition/stories/ru/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/black-edition/stories/ru/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/black-edition/stories/ru/05",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/black-edition/stories/ru/06",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 7,
+      "file": "assets/black-edition/stories/ru/07",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 8,
+      "file": "assets/black-edition/stories/ru/08",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 9,
+      "file": "assets/black-edition/stories/ru/09",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 10,
+      "file": "assets/black-edition/stories/ru/10",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 11,
+      "file": "assets/black-edition/stories/ru/11",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 12,
+      "file": "assets/black-edition/stories/ru/12",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 13,
+      "file": "assets/black-edition/stories/ru/13",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 14,
+      "file": "assets/black-edition/stories/ru/14",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "ru",
+      "n": 15,
+      "file": "assets/black-edition/stories/ru/15",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/black-edition/stories/en/01",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/black-edition/stories/en/02",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/black-edition/stories/en/03",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/black-edition/stories/en/04",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 5,
+      "file": "assets/black-edition/stories/en/05",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 6,
+      "file": "assets/black-edition/stories/en/06",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 7,
+      "file": "assets/black-edition/stories/en/07",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 8,
+      "file": "assets/black-edition/stories/en/08",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 9,
+      "file": "assets/black-edition/stories/en/09",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 10,
+      "file": "assets/black-edition/stories/en/10",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 11,
+      "file": "assets/black-edition/stories/en/11",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 12,
+      "file": "assets/black-edition/stories/en/12",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 13,
+      "file": "assets/black-edition/stories/en/13",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 14,
+      "file": "assets/black-edition/stories/en/14",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "stories",
+      "lang": "en",
+      "n": 15,
+      "file": "assets/black-edition/stories/en/15",
+      "w": 1080,
+      "h": 1920
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 1,
+      "file": "assets/black-edition/posts/ru/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 2,
+      "file": "assets/black-edition/posts/ru/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 3,
+      "file": "assets/black-edition/posts/ru/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 4,
+      "file": "assets/black-edition/posts/ru/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 5,
+      "file": "assets/black-edition/posts/ru/05",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 6,
+      "file": "assets/black-edition/posts/ru/06",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 7,
+      "file": "assets/black-edition/posts/ru/07",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "ru",
+      "n": 8,
+      "file": "assets/black-edition/posts/ru/08",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 1,
+      "file": "assets/black-edition/posts/en/01",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 2,
+      "file": "assets/black-edition/posts/en/02",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 3,
+      "file": "assets/black-edition/posts/en/03",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 4,
+      "file": "assets/black-edition/posts/en/04",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 5,
+      "file": "assets/black-edition/posts/en/05",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 6,
+      "file": "assets/black-edition/posts/en/06",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 7,
+      "file": "assets/black-edition/posts/en/07",
+      "w": 1080,
+      "h": 1350
+    },
+    {
+      "kind": "posts",
+      "lang": "en",
+      "n": 8,
+      "file": "assets/black-edition/posts/en/08",
+      "w": 1080,
+      "h": 1350
+    }
+  ]
+}
