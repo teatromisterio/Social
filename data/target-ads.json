@@ -12,7 +12,8 @@
    "file": "assets/target-ads/ads/en/01",
    "w": 1080,
    "h": 1350,
-   "label": "Чёрный Принц"
+   "label": "Чёрный Принц",
+   "pos": 1
   },
   {
    "kind": "ads",
@@ -21,7 +22,8 @@
    "file": "assets/target-ads/ads/en/02",
    "w": 1080,
    "h": 1350,
-   "label": "Чёрный Принц"
+   "label": "Чёрный Принц",
+   "pos": 2
   },
   {
    "kind": "ads",
@@ -30,7 +32,8 @@
    "file": "assets/target-ads/ads/en/03",
    "w": 1080,
    "h": 1350,
-   "label": "Чёрный Принц"
+   "label": "Чёрный Принц",
+   "pos": 3
   },
   {
    "kind": "ads",
@@ -39,7 +42,8 @@
    "file": "assets/target-ads/ads/en/04",
    "w": 1080,
    "h": 1350,
-   "label": "Чёрный Принц"
+   "label": "Чёрный Принц",
+   "pos": 4
   },
   {
    "kind": "ads",
@@ -48,7 +52,8 @@
    "file": "assets/target-ads/ads/en/05",
    "w": 1080,
    "h": 1350,
-   "label": "Чёрный Принц"
+   "label": "Чёрный Принц",
+   "pos": 5
   },
   {
    "kind": "ads",
@@ -57,7 +62,20 @@
    "file": "assets/target-ads/ads/en/06",
    "w": 1080,
    "h": 1350,
-   "label": "Чёрный Принц"
+   "label": "Чёрный Принц",
+   "pos": 6
+  },
+  {
+   "kind": "ads",
+   "lang": "en",
+   "n": 1,
+   "type": "video",
+   "file": "assets/target-ads/ads/en/v01",
+   "w": 1080,
+   "h": 1920,
+   "duration": 18.4,
+   "label": "Чёрный Принц",
+   "pos": 7
   },
   {
    "kind": "ads",
@@ -66,7 +84,8 @@
    "file": "assets/target-ads/ads/en/07",
    "w": 1080,
    "h": 1350,
-   "label": "Duo + 18"
+   "label": "Duo + 18",
+   "pos": 8
   },
   {
    "kind": "ads",
@@ -75,7 +94,8 @@
    "file": "assets/target-ads/ads/en/08",
    "w": 1080,
    "h": 1350,
-   "label": "Duo + 18"
+   "label": "Duo + 18",
+   "pos": 9
   },
   {
    "kind": "ads",
@@ -84,7 +104,20 @@
    "file": "assets/target-ads/ads/en/09",
    "w": 1080,
    "h": 1350,
-   "label": "Duo + 18"
+   "label": "Duo + 18",
+   "pos": 10
+  },
+  {
+   "kind": "ads",
+   "lang": "en",
+   "n": 2,
+   "type": "video",
+   "file": "assets/target-ads/ads/en/v02",
+   "w": 1080,
+   "h": 1920,
+   "duration": 23.5,
+   "label": "Duo + 18",
+   "pos": 11
   },
   {
    "kind": "ads",
@@ -93,7 +126,8 @@
    "file": "assets/target-ads/ads/en/10",
    "w": 1080,
    "h": 1350,
-   "label": "Жидкий Металл"
+   "label": "Жидкий Металл",
+   "pos": 12
   },
   {
    "kind": "ads",
@@ -102,7 +136,8 @@
    "file": "assets/target-ads/ads/en/11",
    "w": 1080,
    "h": 1350,
-   "label": "Жидкий Металл"
+   "label": "Жидкий Металл",
+   "pos": 13
   },
   {
    "kind": "ads",
@@ -111,7 +146,8 @@
    "file": "assets/target-ads/ads/en/12",
    "w": 1080,
    "h": 1350,
-   "label": "Чёрный Принц"
+   "label": "Чёрный Принц",
+   "pos": 14
   },
   {
    "kind": "ads",
@@ -120,7 +156,8 @@
    "file": "assets/target-ads/ads/en/13",
    "w": 1080,
    "h": 1350,
-   "label": "Reward"
+   "label": "Reward",
+   "pos": 15
   },
   {
    "kind": "ads",
@@ -129,7 +166,8 @@
    "file": "assets/target-ads/ads/en/14",
    "w": 1080,
    "h": 1350,
-   "label": "Reward"
+   "label": "Reward",
+   "pos": 16
   },
   {
    "kind": "ads",
@@ -138,7 +176,8 @@
    "file": "assets/target-ads/ads/en/15",
    "w": 1080,
    "h": 1350,
-   "label": "Reward"
+   "label": "Reward",
+   "pos": 17
   },
   {
    "kind": "ads",
@@ -147,7 +186,8 @@
    "file": "assets/target-ads/ads/en/16",
    "w": 1080,
    "h": 1350,
-   "label": "Reward"
+   "label": "Reward",
+   "pos": 18
   },
   {
    "kind": "ads",
@@ -156,7 +196,8 @@
    "file": "assets/target-ads/ads/en/17",
    "w": 1080,
    "h": 1350,
-   "label": "Reward"
+   "label": "Reward",
+   "pos": 19
   },
   {
    "kind": "ads",
@@ -165,7 +206,8 @@
    "file": "assets/target-ads/ads/en/18",
    "w": 1080,
    "h": 1350,
-   "label": "Reward"
+   "label": "Reward",
+   "pos": 20
   },
   {
    "kind": "ads",
@@ -174,7 +216,8 @@
    "file": "assets/target-ads/ads/en/19",
    "w": 1080,
    "h": 1350,
-   "label": "Reward"
+   "label": "Reward",
+   "pos": 21
   },
   {
    "kind": "ads",
@@ -183,7 +226,8 @@
    "file": "assets/target-ads/ads/en/20",
    "w": 1080,
    "h": 1350,
-   "label": "Reward"
+   "label": "Reward",
+   "pos": 22
   },
   {
    "kind": "ads",
@@ -192,7 +236,20 @@
    "file": "assets/target-ads/ads/en/21",
    "w": 1080,
    "h": 1350,
-   "label": "Reward"
+   "label": "Reward",
+   "pos": 23
+  },
+  {
+   "kind": "ads",
+   "lang": "en",
+   "n": 3,
+   "type": "video",
+   "file": "assets/target-ads/ads/en/v03",
+   "w": 1080,
+   "h": 1920,
+   "duration": 21.7,
+   "label": "Reward",
+   "pos": 24
   },
   {
    "kind": "ads",
@@ -201,7 +258,8 @@
    "file": "assets/target-ads/ads/en/22",
    "w": 1080,
    "h": 1350,
-   "label": "Statement"
+   "label": "Statement",
+   "pos": 25
   },
   {
    "kind": "ads",
@@ -210,7 +268,8 @@
    "file": "assets/target-ads/ads/en/23",
    "w": 1080,
    "h": 1350,
-   "label": "Statement"
+   "label": "Statement",
+   "pos": 26
   },
   {
    "kind": "ads",
@@ -219,7 +278,8 @@
    "file": "assets/target-ads/ads/en/24",
    "w": 1080,
    "h": 1350,
-   "label": "Statement"
+   "label": "Statement",
+   "pos": 27
   },
   {
    "kind": "ads",
@@ -228,7 +288,8 @@
    "file": "assets/target-ads/ads/en/25",
    "w": 1080,
    "h": 1350,
-   "label": "Statement"
+   "label": "Statement",
+   "pos": 28
   },
   {
    "kind": "ads",
@@ -237,7 +298,8 @@
    "file": "assets/target-ads/ads/en/26",
    "w": 1080,
    "h": 1350,
-   "label": "Statement"
+   "label": "Statement",
+   "pos": 29
   },
   {
    "kind": "ads",
@@ -246,7 +308,8 @@
    "file": "assets/target-ads/ads/en/27",
    "w": 1080,
    "h": 1350,
-   "label": "Statement"
+   "label": "Statement",
+   "pos": 30
   },
   {
    "kind": "ads",
@@ -255,7 +318,8 @@
    "file": "assets/target-ads/ads/en/28",
    "w": 1080,
    "h": 1350,
-   "label": "Statement"
+   "label": "Statement",
+   "pos": 31
   },
   {
    "kind": "ads",
@@ -264,7 +328,20 @@
    "file": "assets/target-ads/ads/en/29",
    "w": 1080,
    "h": 1350,
-   "label": "Statement"
+   "label": "Statement",
+   "pos": 32
+  },
+  {
+   "kind": "ads",
+   "lang": "en",
+   "n": 4,
+   "type": "video",
+   "file": "assets/target-ads/ads/en/v04",
+   "w": 1080,
+   "h": 1920,
+   "duration": 27.7,
+   "label": "Statement",
+   "pos": 33
   },
   {
    "kind": "ads",
@@ -273,7 +350,8 @@
    "file": "assets/target-ads/ads/en/30",
    "w": 1080,
    "h": 1350,
-   "label": "Exclusive"
+   "label": "Exclusive",
+   "pos": 34
   },
   {
    "kind": "ads",
@@ -282,7 +360,8 @@
    "file": "assets/target-ads/ads/en/31",
    "w": 1080,
    "h": 1350,
-   "label": "Exclusive"
+   "label": "Exclusive",
+   "pos": 35
   },
   {
    "kind": "ads",
@@ -291,7 +370,8 @@
    "file": "assets/target-ads/ads/en/32",
    "w": 1080,
    "h": 1350,
-   "label": "Exclusive"
+   "label": "Exclusive",
+   "pos": 36
   },
   {
    "kind": "ads",
@@ -300,7 +380,8 @@
    "file": "assets/target-ads/ads/en/33",
    "w": 1080,
    "h": 1350,
-   "label": "Exclusive"
+   "label": "Exclusive",
+   "pos": 37
   },
   {
    "kind": "ads",
@@ -309,7 +390,20 @@
    "file": "assets/target-ads/ads/en/34",
    "w": 1080,
    "h": 1350,
-   "label": "Exclusive"
+   "label": "Exclusive",
+   "pos": 38
+  },
+  {
+   "kind": "ads",
+   "lang": "en",
+   "n": 5,
+   "type": "video",
+   "file": "assets/target-ads/ads/en/v05",
+   "w": 1080,
+   "h": 1920,
+   "duration": 20.4,
+   "label": "Exclusive",
+   "pos": 39
   },
   {
    "kind": "ads",
@@ -318,7 +412,8 @@
    "file": "assets/target-ads/ads/en/35",
    "w": 1080,
    "h": 1350,
-   "label": "Dubai"
+   "label": "Dubai",
+   "pos": 40
   },
   {
    "kind": "ads",
@@ -327,7 +422,8 @@
    "file": "assets/target-ads/ads/en/36",
    "w": 1080,
    "h": 1350,
-   "label": "Dubai"
+   "label": "Dubai",
+   "pos": 41
   },
   {
    "kind": "ads",
@@ -336,7 +432,8 @@
    "file": "assets/target-ads/ads/en/37",
    "w": 1080,
    "h": 1350,
-   "label": "Dubai"
+   "label": "Dubai",
+   "pos": 42
   },
   {
    "kind": "ads",
@@ -345,7 +442,8 @@
    "file": "assets/target-ads/ads/en/38",
    "w": 1080,
    "h": 1350,
-   "label": "Dubai"
+   "label": "Dubai",
+   "pos": 43
   },
   {
    "kind": "ads",
@@ -354,7 +452,8 @@
    "file": "assets/target-ads/ads/en/39",
    "w": 1080,
    "h": 1350,
-   "label": "Dubai"
+   "label": "Dubai",
+   "pos": 44
   },
   {
    "kind": "ads",
@@ -363,7 +462,8 @@
    "file": "assets/target-ads/ads/en/40",
    "w": 1080,
    "h": 1350,
-   "label": "Dubai"
+   "label": "Dubai",
+   "pos": 45
   },
   {
    "kind": "ads",
@@ -372,7 +472,20 @@
    "file": "assets/target-ads/ads/en/41",
    "w": 1080,
    "h": 1350,
-   "label": "Dubai"
+   "label": "Dubai",
+   "pos": 46
+  },
+  {
+   "kind": "ads",
+   "lang": "en",
+   "n": 6,
+   "type": "video",
+   "file": "assets/target-ads/ads/en/v06",
+   "w": 1080,
+   "h": 1920,
+   "duration": 50.2,
+   "label": "Dubai",
+   "pos": 47
   }
  ]
 }

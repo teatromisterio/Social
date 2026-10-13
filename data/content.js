@@ -888,7 +888,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/01",
     "w": 1080,
     "h": 1350,
-    "label": "Чёрный Принц"
+    "label": "Чёрный Принц",
+    "pos": 1
    },
    {
     "kind": "ads",
@@ -897,7 +898,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/02",
     "w": 1080,
     "h": 1350,
-    "label": "Чёрный Принц"
+    "label": "Чёрный Принц",
+    "pos": 2
    },
    {
     "kind": "ads",
@@ -906,7 +908,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/03",
     "w": 1080,
     "h": 1350,
-    "label": "Чёрный Принц"
+    "label": "Чёрный Принц",
+    "pos": 3
    },
    {
     "kind": "ads",
@@ -915,7 +918,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/04",
     "w": 1080,
     "h": 1350,
-    "label": "Чёрный Принц"
+    "label": "Чёрный Принц",
+    "pos": 4
    },
    {
     "kind": "ads",
@@ -924,7 +928,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/05",
     "w": 1080,
     "h": 1350,
-    "label": "Чёрный Принц"
+    "label": "Чёрный Принц",
+    "pos": 5
    },
    {
     "kind": "ads",
@@ -933,7 +938,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/06",
     "w": 1080,
     "h": 1350,
-    "label": "Чёрный Принц"
+    "label": "Чёрный Принц",
+    "pos": 6
    },
    {
     "kind": "ads",
@@ -942,7 +948,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/07",
     "w": 1080,
     "h": 1350,
-    "label": "Duo + 18"
+    "label": "Duo + 18",
+    "pos": 8
    },
    {
     "kind": "ads",
@@ -951,7 +958,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/08",
     "w": 1080,
     "h": 1350,
-    "label": "Duo + 18"
+    "label": "Duo + 18",
+    "pos": 9
    },
    {
     "kind": "ads",
@@ -960,7 +968,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/09",
     "w": 1080,
     "h": 1350,
-    "label": "Duo + 18"
+    "label": "Duo + 18",
+    "pos": 10
    },
    {
     "kind": "ads",
@@ -969,7 +978,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/10",
     "w": 1080,
     "h": 1350,
-    "label": "Жидкий Металл"
+    "label": "Жидкий Металл",
+    "pos": 12
    },
    {
     "kind": "ads",
@@ -978,7 +988,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/11",
     "w": 1080,
     "h": 1350,
-    "label": "Жидкий Металл"
+    "label": "Жидкий Металл",
+    "pos": 13
    },
    {
     "kind": "ads",
@@ -987,7 +998,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/12",
     "w": 1080,
     "h": 1350,
-    "label": "Чёрный Принц"
+    "label": "Чёрный Принц",
+    "pos": 14
    },
    {
     "kind": "ads",
@@ -996,7 +1008,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/13",
     "w": 1080,
     "h": 1350,
-    "label": "Reward"
+    "label": "Reward",
+    "pos": 15
    },
    {
     "kind": "ads",
@@ -1005,7 +1018,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/14",
     "w": 1080,
     "h": 1350,
-    "label": "Reward"
+    "label": "Reward",
+    "pos": 16
    },
    {
     "kind": "ads",
@@ -1014,7 +1028,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/15",
     "w": 1080,
     "h": 1350,
-    "label": "Reward"
+    "label": "Reward",
+    "pos": 17
    },
    {
     "kind": "ads",
@@ -1023,7 +1038,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/16",
     "w": 1080,
     "h": 1350,
-    "label": "Reward"
+    "label": "Reward",
+    "pos": 18
    },
    {
     "kind": "ads",
@@ -1032,7 +1048,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/17",
     "w": 1080,
     "h": 1350,
-    "label": "Reward"
+    "label": "Reward",
+    "pos": 19
    },
    {
     "kind": "ads",
@@ -1041,7 +1058,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/18",
     "w": 1080,
     "h": 1350,
-    "label": "Reward"
+    "label": "Reward",
+    "pos": 20
    },
    {
     "kind": "ads",
@@ -1050,7 +1068,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/19",
     "w": 1080,
     "h": 1350,
-    "label": "Reward"
+    "label": "Reward",
+    "pos": 21
    },
    {
     "kind": "ads",
@@ -1059,7 +1078,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/20",
     "w": 1080,
     "h": 1350,
-    "label": "Reward"
+    "label": "Reward",
+    "pos": 22
    },
    {
     "kind": "ads",
@@ -1068,7 +1088,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/21",
     "w": 1080,
     "h": 1350,
-    "label": "Reward"
+    "label": "Reward",
+    "pos": 23
    },
    {
     "kind": "ads",
@@ -1077,7 +1098,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/22",
     "w": 1080,
     "h": 1350,
-    "label": "Statement"
+    "label": "Statement",
+    "pos": 25
    },
    {
     "kind": "ads",
@@ -1086,7 +1108,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/23",
     "w": 1080,
     "h": 1350,
-    "label": "Statement"
+    "label": "Statement",
+    "pos": 26
    },
    {
     "kind": "ads",
@@ -1095,7 +1118,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/24",
     "w": 1080,
     "h": 1350,
-    "label": "Statement"
+    "label": "Statement",
+    "pos": 27
    },
    {
     "kind": "ads",
@@ -1104,7 +1128,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/25",
     "w": 1080,
     "h": 1350,
-    "label": "Statement"
+    "label": "Statement",
+    "pos": 28
    },
    {
     "kind": "ads",
@@ -1113,7 +1138,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/26",
     "w": 1080,
     "h": 1350,
-    "label": "Statement"
+    "label": "Statement",
+    "pos": 29
    },
    {
     "kind": "ads",
@@ -1122,7 +1148,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/27",
     "w": 1080,
     "h": 1350,
-    "label": "Statement"
+    "label": "Statement",
+    "pos": 30
    },
    {
     "kind": "ads",
@@ -1131,7 +1158,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/28",
     "w": 1080,
     "h": 1350,
-    "label": "Statement"
+    "label": "Statement",
+    "pos": 31
    },
    {
     "kind": "ads",
@@ -1140,7 +1168,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/29",
     "w": 1080,
     "h": 1350,
-    "label": "Statement"
+    "label": "Statement",
+    "pos": 32
    },
    {
     "kind": "ads",
@@ -1149,7 +1178,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/30",
     "w": 1080,
     "h": 1350,
-    "label": "Exclusive"
+    "label": "Exclusive",
+    "pos": 34
    },
    {
     "kind": "ads",
@@ -1158,7 +1188,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/31",
     "w": 1080,
     "h": 1350,
-    "label": "Exclusive"
+    "label": "Exclusive",
+    "pos": 35
    },
    {
     "kind": "ads",
@@ -1167,7 +1198,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/32",
     "w": 1080,
     "h": 1350,
-    "label": "Exclusive"
+    "label": "Exclusive",
+    "pos": 36
    },
    {
     "kind": "ads",
@@ -1176,7 +1208,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/33",
     "w": 1080,
     "h": 1350,
-    "label": "Exclusive"
+    "label": "Exclusive",
+    "pos": 37
    },
    {
     "kind": "ads",
@@ -1185,7 +1218,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/34",
     "w": 1080,
     "h": 1350,
-    "label": "Exclusive"
+    "label": "Exclusive",
+    "pos": 38
    },
    {
     "kind": "ads",
@@ -1194,7 +1228,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/35",
     "w": 1080,
     "h": 1350,
-    "label": "Dubai"
+    "label": "Dubai",
+    "pos": 40
    },
    {
     "kind": "ads",
@@ -1203,7 +1238,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/36",
     "w": 1080,
     "h": 1350,
-    "label": "Dubai"
+    "label": "Dubai",
+    "pos": 41
    },
    {
     "kind": "ads",
@@ -1212,7 +1248,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/37",
     "w": 1080,
     "h": 1350,
-    "label": "Dubai"
+    "label": "Dubai",
+    "pos": 42
    },
    {
     "kind": "ads",
@@ -1221,7 +1258,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/38",
     "w": 1080,
     "h": 1350,
-    "label": "Dubai"
+    "label": "Dubai",
+    "pos": 43
    },
    {
     "kind": "ads",
@@ -1230,7 +1268,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/39",
     "w": 1080,
     "h": 1350,
-    "label": "Dubai"
+    "label": "Dubai",
+    "pos": 44
    },
    {
     "kind": "ads",
@@ -1239,7 +1278,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/40",
     "w": 1080,
     "h": 1350,
-    "label": "Dubai"
+    "label": "Dubai",
+    "pos": 45
    },
    {
     "kind": "ads",
@@ -1248,7 +1288,8 @@ window.CONTENT = [
     "file": "assets/target-ads/ads/en/41",
     "w": 1080,
     "h": 1350,
-    "label": "Dubai"
+    "label": "Dubai",
+    "pos": 46
    }
   ]
  },
@@ -1808,7 +1849,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/iphone-duo-preorder/stories/ru/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -1816,7 +1858,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/iphone-duo-preorder/stories/ru/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -1824,7 +1867,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/iphone-duo-preorder/stories/ru/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "stories",
@@ -1832,7 +1876,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/iphone-duo-preorder/stories/ru/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 8
    },
    {
     "kind": "stories",
@@ -1840,7 +1885,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/iphone-duo-preorder/stories/ru/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 9
    },
    {
     "kind": "stories",
@@ -1848,7 +1894,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/iphone-duo-preorder/stories/en/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -1856,7 +1903,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/iphone-duo-preorder/stories/en/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -1864,7 +1912,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/iphone-duo-preorder/stories/en/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "stories",
@@ -1872,7 +1921,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/iphone-duo-preorder/stories/en/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 8
    },
    {
     "kind": "stories",
@@ -1880,7 +1930,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/iphone-duo-preorder/stories/en/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 9
    },
    {
     "kind": "posts",
@@ -1888,7 +1939,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/iphone-duo-preorder/posts/ru/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -1896,7 +1948,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/iphone-duo-preorder/posts/ru/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 5
    },
    {
     "kind": "posts",
@@ -1904,7 +1957,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/iphone-duo-preorder/posts/ru/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 8
    },
    {
     "kind": "posts",
@@ -1912,7 +1966,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/iphone-duo-preorder/posts/en/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -1920,7 +1975,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/iphone-duo-preorder/posts/en/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 5
    },
    {
     "kind": "posts",
@@ -1928,7 +1984,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/iphone-duo-preorder/posts/en/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 8
    }
   ]
  },
@@ -1944,7 +2001,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/iphone-18-pro-preorder/stories/ru/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -1952,7 +2010,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/iphone-18-pro-preorder/stories/ru/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -1960,7 +2019,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/iphone-18-pro-preorder/stories/ru/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "stories",
@@ -1968,7 +2028,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/iphone-18-pro-preorder/stories/ru/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 6
    },
    {
     "kind": "stories",
@@ -1976,7 +2037,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/iphone-18-pro-preorder/stories/ru/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 9
    },
    {
     "kind": "stories",
@@ -1984,7 +2046,8 @@ window.CONTENT = [
     "n": 6,
     "file": "assets/iphone-18-pro-preorder/stories/ru/06",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 10
    },
    {
     "kind": "stories",
@@ -1992,7 +2055,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/iphone-18-pro-preorder/stories/en/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -2000,7 +2064,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/iphone-18-pro-preorder/stories/en/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -2008,7 +2073,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/iphone-18-pro-preorder/stories/en/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "stories",
@@ -2016,7 +2082,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/iphone-18-pro-preorder/stories/en/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 6
    },
    {
     "kind": "stories",
@@ -2024,7 +2091,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/iphone-18-pro-preorder/stories/en/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 9
    },
    {
     "kind": "stories",
@@ -2032,7 +2100,8 @@ window.CONTENT = [
     "n": 6,
     "file": "assets/iphone-18-pro-preorder/stories/en/06",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 10
    },
    {
     "kind": "posts",
@@ -2040,7 +2109,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/iphone-18-pro-preorder/posts/ru/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -2048,7 +2118,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/iphone-18-pro-preorder/posts/ru/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 5
    },
    {
     "kind": "posts",
@@ -2056,7 +2127,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/iphone-18-pro-preorder/posts/ru/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 8
    },
    {
     "kind": "posts",
@@ -2064,7 +2136,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/iphone-18-pro-preorder/posts/en/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -2072,7 +2145,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/iphone-18-pro-preorder/posts/en/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 5
    },
    {
     "kind": "posts",
@@ -2080,7 +2154,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/iphone-18-pro-preorder/posts/en/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 8
    }
   ]
  },
@@ -2917,7 +2992,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/legends/stories/ru/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -2925,7 +3001,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/legends/stories/ru/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 2
    },
    {
     "kind": "stories",
@@ -2933,7 +3010,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/legends/stories/ru/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 3
    },
    {
     "kind": "stories",
@@ -2941,7 +3019,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/legends/stories/ru/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -2949,7 +3028,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/legends/stories/ru/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "stories",
@@ -2957,7 +3037,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/legends/stories/en/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -2965,7 +3046,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/legends/stories/en/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 2
    },
    {
     "kind": "stories",
@@ -2973,7 +3055,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/legends/stories/en/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 3
    },
    {
     "kind": "stories",
@@ -2981,7 +3064,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/legends/stories/en/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -2989,7 +3073,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/legends/stories/en/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "posts",
@@ -2997,7 +3082,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/legends/posts/ru/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 1
    },
    {
     "kind": "posts",
@@ -3005,7 +3091,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/legends/posts/ru/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -3013,7 +3100,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/legends/posts/ru/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 3
    },
    {
     "kind": "posts",
@@ -3021,7 +3109,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/legends/posts/ru/04",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 4
    },
    {
     "kind": "posts",
@@ -3029,7 +3118,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/legends/posts/ru/05",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 6
    },
    {
     "kind": "posts",
@@ -3037,7 +3127,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/legends/posts/en/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 1
    },
    {
     "kind": "posts",
@@ -3045,7 +3136,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/legends/posts/en/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -3053,7 +3145,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/legends/posts/en/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 3
    },
    {
     "kind": "posts",
@@ -3061,7 +3154,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/legends/posts/en/04",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 4
    },
    {
     "kind": "posts",
@@ -3069,7 +3163,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/legends/posts/en/05",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 6
    }
   ]
  },
