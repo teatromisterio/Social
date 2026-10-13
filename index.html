@@ -128,6 +128,18 @@
     .tile__open { display: block; width: 100%; overflow: hidden; background: #e9e7e2; cursor: zoom-in; }
     .tile__open img { width: 100%; height: auto; transition: transform .8s var(--ease-out-expo); }
     .tile:hover .tile__open img { transform: scale(1.03); }
+    .tile__open { position: relative; }
+    .tile__play {
+      position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
+      width: 56px; height: 56px; border-radius: 50%; display: grid; place-items: center;
+      background: rgba(13,17,23,.55); border: 1px solid var(--color-brand-accent); color: #fff;
+      backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); pointer-events: none;
+    }
+    .tile__play svg { width: 18px; height: 18px; margin-left: 3px; }
+    .tile__dur {
+      position: absolute; right: 10px; bottom: 10px; padding: 3px 8px; background: rgba(13,17,23,.7);
+      font-weight: 700; font-size: 11px; letter-spacing: .08em; color: #fff; pointer-events: none;
+    }
     .tile__bar { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 10px 12px; }
     .tile__name { font-weight: 700; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: #6b6b73; }
     .tile__dl {
@@ -156,6 +168,8 @@
     .viewer { position: fixed; inset: 0; z-index: 50; display: none; align-items: center; justify-content: center; padding: 40px; background: rgba(13,17,23,0.94); }
     .viewer.is-open { display: flex; }
     .viewer__inner { display: flex; flex-direction: column; align-items: center; gap: 18px; max-height: 100%; }
+    .viewer video { max-width: min(90vw, 1080px); max-height: calc(100vh - 160px); width: auto; height: auto; background: #000; box-shadow: 0 40px 80px rgba(0,0,0,.55); }
+    .viewer [hidden] { display: none; }
     .viewer img { max-width: min(90vw, 1080px); max-height: calc(100vh - 160px); width: auto; height: auto; box-shadow: 0 40px 80px rgba(0,0,0,.55); }
     .viewer__caption { font-weight: 700; font-size: 11.5px; letter-spacing: .12em; text-transform: uppercase; color: rgba(247,247,247,.75); text-align: center; }
     .viewer__close, .viewer__nav { position: absolute; width: 48px; height: 48px; display: grid; place-items: center; color: var(--color-surface-light); border: 1px solid var(--line-gold); border-radius: 50%; transition: background-color .25s ease; }
@@ -228,6 +242,7 @@
       <div class="stat"><span class="stat__value" id="statCollections">0</span><span class="stat__label">Коллекций</span></div>
       <div class="stat"><span class="stat__value" id="statPosts">0</span><span class="stat__label">Постов</span></div>
       <div class="stat"><span class="stat__value" id="statStories">0</span><span class="stat__label">Сторис</span></div>
+      <div class="stat"><span class="stat__value" id="statVideos">0</span><span class="stat__label">Видео</span></div>
     </div>
   </section>
 
@@ -262,6 +277,7 @@
     </button>
     <div class="viewer__inner">
       <img id="viewerImg" alt="">
+      <video id="viewerVideo" controls playsinline preload="metadata" hidden></video>
       <p class="viewer__caption" id="viewerCaption"></p>
       <a class="btn" id="viewerDl" href="#" download>
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 2v8m0 0 3.5-3.5M8 10 4.5 6.5M2.5 13.5h11"/></svg>
@@ -310,9 +326,13 @@
       var p = iso.split('-');
       return +p[2] + ' ' + MONTHS[+p[1] - 1] + ' ' + p[0];
     }
+    function isVideo(it) { return it.type === 'video'; }
+    function src(it) { return it.file + (isVideo(it) ? '.mp4' : '.jpg'); }
+    function num(it) { return String(it.num || it.n).padStart(2, '0'); }
     function fileName(c, it) {
-      return 'caviar_' + c.slug + '_' + KIND_FILE[it.kind] + '_' + it.lang + '_' + String(it.n).padStart(2, '0') + '.jpg';
+      return 'caviar_' + c.slug + '_' + KIND_FILE[it.kind] + '_' + it.lang + '_' + num(it) + (isVideo(it) ? '.mp4' : '.jpg');
     }
+    function fmtDur(sec) { sec = Math.round(sec || 0); return Math.floor(sec / 60) + ':' + String(sec % 60).padStart(2, '0'); }
     function esc(s) { return String(s).replace(/[&<>"]/g, function (ch) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[ch]; }); }
 
     // Изображения коллекции нужного типа на выбранном языке; если такой версии нет — на другом
@@ -320,7 +340,9 @@
       var by = function (l) { return c.items.filter(function (it) { return it.kind === k && it.lang === l; }); };
       var items = by(state.lang), fallback = false;
       if (!items.length) { items = by(state.lang === 'ru' ? 'en' : 'ru'); fallback = items.length > 0; }
-      return { items: items.sort(function (a, b) { return a.n - b.n; }), fallback: fallback };
+      items.sort(function (a, b) { return (a.pos || a.n) - (b.pos || b.n); });
+      items.forEach(function (it, i) { it.num = i + 1; }); // номер слайда в публикации, с учётом видео
+      return { items: items, fallback: fallback };
     }
 
     // Статистика по выбранному языку
@@ -328,6 +350,9 @@
       var r = { posts: 0, stories: 0, ads: 0 };
       DATA.forEach(function (c) { ['posts', 'stories', 'ads'].forEach(function (k) { r[k] += pick(c, k).items.length; }); });
       r.all = r.posts + r.stories + r.ads;
+      r.videos = 0;
+      DATA.forEach(function (c) { ['posts', 'stories', 'ads'].forEach(function (k) {
+        r.videos += pick(c, k).items.filter(isVideo).length; }); });
       return r;
     }
 
@@ -349,13 +374,14 @@
           items.forEach(function (it) {
             var idx = visible.length;
             visible.push({ c: c, it: it });
-            var label = KIND[k] + ' ' + String(it.n).padStart(2, '0') + (it.label ? ' · ' + it.label : '');
+            var label = KIND[k] + ' ' + num(it) + (isVideo(it) ? ' · видео' : '') + (it.label ? ' · ' + it.label : '');
             groups += '<figure class="tile reveal">' +
               '<button class="tile__open" type="button" data-idx="' + idx + '" aria-label="Открыть: ' + esc(c.title) + ', ' + label + '">' +
               '<img src="' + it.file + '.webp" width="' + it.w + '" height="' + it.h + '" loading="lazy" decoding="async" alt="' + esc(c.title) + ' — ' + label.toLowerCase() + '">' +
+              (isVideo(it) ? '<span class="tile__play"><svg viewBox="0 0 16 16"><path d="M4 2.5v11l9-5.5z" fill="currentColor"/></svg></span><span class="tile__dur">' + fmtDur(it.duration) + '</span>' : '') +
               '</button>' +
               '<figcaption class="tile__bar"><span class="tile__name">' + label + '</span>' +
-              '<a class="tile__dl" href="' + it.file + '.jpg" download="' + fileName(c, it) + '">' + DL_ICON + (SHARE ? 'Сохранить' : 'Скачать') + '</a></figcaption>' +
+              '<a class="tile__dl" href="' + src(it) + '" download="' + fileName(c, it) + '">' + DL_ICON + (SHARE ? 'Сохранить' : 'Скачать') + '</a></figcaption>' +
               '</figure>';
           });
           groups += '</div></div>';
@@ -392,6 +418,7 @@
       setStat('statCollections', DATA.length);
       setStat('statPosts', n.posts);
       setStat('statStories', n.stories);
+      setStat('statVideos', n.videos);
       try { localStorage.setItem('caviar-social', JSON.stringify(state)); } catch (e) {}
     }
     function setStat(id, v) { document.getElementById(id).textContent = v; }
@@ -423,17 +450,17 @@
       var c = DATA.filter(function (x) { return x.slug === btn.dataset.zip; })[0];
       var items = visible.filter(function (v) { return v.c === c; }).map(function (v) { return v.it; });
       var label = btn.innerHTML;
-      if (!window.JSZip) { items.forEach(function (it, i) { setTimeout(function () { triggerDl(it.file + '.jpg', fileName(c, it)); }, i * 350); }); return; }
+      if (!window.JSZip) { items.forEach(function (it, i) { setTimeout(function () { triggerDl(src(it), fileName(c, it)); }, i * 350); }); return; }
       btn.disabled = true; btn.innerHTML = DL_ICON + 'Готовим архив…';
       var zip = new JSZip();
       Promise.all(items.map(function (it) {
-        return fetch(it.file + '.jpg').then(function (r) { return r.blob(); }).then(function (b) { zip.file(fileName(c, it), b); });
+        return fetch(src(it)).then(function (r) { return r.blob(); }).then(function (b) { zip.file(fileName(c, it), b); });
       })).then(function () { return zip.generateAsync({ type: 'blob' }); })
         .then(function (blob) {
           var suffix = state.kind === 'all' ? '' : '_' + state.kind;
           triggerDl(URL.createObjectURL(blob), 'caviar_' + c.slug + suffix + '_' + state.lang + '.zip');
         })
-        .catch(function () { items.forEach(function (it, i) { setTimeout(function () { triggerDl(it.file + '.jpg', fileName(c, it)); }, i * 350); }); })
+        .catch(function () { items.forEach(function (it, i) { setTimeout(function () { triggerDl(src(it), fileName(c, it)); }, i * 350); }); })
         .then(function () { btn.disabled = false; btn.innerHTML = label; });
     }
     function triggerDl(href, name) {
@@ -448,7 +475,7 @@
       if (files[x.href]) return Promise.resolve(files[x.href]);
       if (!loading[x.href]) {
         loading[x.href] = fetch(x.href).then(function (r) { return r.blob(); }).then(function (b) {
-          files[x.href] = new File([b], x.name, { type: 'image/jpeg' });
+          files[x.href] = new File([b], x.name, { type: /\.mp4$/.test(x.name) ? 'video/mp4' : 'image/jpeg' });
           return files[x.href];
         });
         loading[x.href].catch(function () { delete loading[x.href]; });
@@ -457,7 +484,7 @@
     }
     function collectionFiles(slug) {
       return visible.filter(function (v) { return v.c.slug === slug; })
-        .map(function (v) { return { href: v.it.file + '.jpg', name: fileName(v.c, v.it) }; });
+        .map(function (v) { return { href: src(v.it), name: fileName(v.c, v.it) }; });
     }
     function shareFiles(list, btn) {
       var ready = list.every(function (x) { return files[x.href]; });
@@ -515,18 +542,23 @@
     // Просмотр
     var viewer = document.getElementById('viewer');
     var vImg = document.getElementById('viewerImg');
+    var vVid = document.getElementById('viewerVideo');
     var vCap = document.getElementById('viewerCaption');
     var vDl = document.getElementById('viewerDl');
     var cur = 0;
     function openViewer(i) {
       cur = (i + visible.length) % visible.length;
       var v = visible[cur];
-      vImg.src = v.it.file + '.jpg';
-      vImg.alt = v.c.title + ' — ' + KIND[v.it.kind].toLowerCase() + ' ' + v.it.n;
-      vCap.textContent = v.c.title + ' · ' + KIND[v.it.kind] + ' ' + String(v.it.n).padStart(2, '0') + (v.it.label ? ' · ' + v.it.label : '') + ' · ' + v.it.lang.toUpperCase();
-      vDl.href = v.it.file + '.jpg';
+      var video = isVideo(v.it);
+      vVid.pause();
+      vImg.hidden = video; vVid.hidden = !video;
+      if (video) { vImg.removeAttribute('src'); vVid.poster = v.it.file + '.webp'; vVid.src = src(v.it); vVid.play().catch(function () {}); }
+      else { vVid.removeAttribute('src'); vVid.load(); vImg.src = src(v.it); }
+      vImg.alt = v.c.title + ' — ' + KIND[v.it.kind].toLowerCase() + ' ' + num(v.it);
+      vCap.textContent = v.c.title + ' · ' + KIND[v.it.kind] + ' ' + num(v.it) + (video ? ' · видео' : '') + (v.it.label ? ' · ' + v.it.label : '') + ' · ' + v.it.lang.toUpperCase();
+      vDl.href = src(v.it);
       vDl.setAttribute('download', fileName(v.c, v.it));
-      if (SHARE) loadFile({ href: vDl.getAttribute('href'), name: vDl.getAttribute('download') });
+      if (SHARE && !video) loadFile({ href: vDl.getAttribute('href'), name: vDl.getAttribute('download') });
       viewer.classList.add('is-open');
       document.body.style.overflow = 'hidden';
     }
@@ -537,7 +569,10 @@
         shareFiles([{ href: vDl.getAttribute('href'), name: vDl.getAttribute('download') }], null);
       });
     }
-    function closeViewer() { viewer.classList.remove('is-open'); document.body.style.overflow = ''; vImg.removeAttribute('src'); }
+    function closeViewer() {
+      viewer.classList.remove('is-open'); document.body.style.overflow = '';
+      vImg.removeAttribute('src'); vVid.pause(); vVid.removeAttribute('src'); vVid.load();
+    }
     viewer.addEventListener('click', function (e) {
       if (e.target === viewer || e.target.closest('[data-close]')) return closeViewer();
       var s = e.target.closest('[data-step]'); if (s) openViewer(cur + +s.dataset.step);
