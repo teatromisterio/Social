@@ -116,6 +116,26 @@
     .btn[disabled] { opacity: .6; cursor: progress; }
 
     .group + .group { margin-top: 36px; }
+
+    /* Тексты для публикации */
+    .copy-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 20px; }
+    .copy { display: flex; flex-direction: column; background: #fff; border-top: 2px solid var(--color-brand-accent); box-shadow: 0 10px 30px rgba(13,17,23,0.08); }
+    .copy__head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 20px 0; }
+    .copy__label { font-weight: 700; font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--color-gold-on-light); }
+    .copy__lang { font-weight: 700; font-size: 11px; letter-spacing: .12em; color: #6b6b73; }
+    .copy__text {
+      position: relative; margin: 12px 20px 0; max-height: 168px; overflow: hidden;
+      font-size: 15px; line-height: 21px; color: var(--color-surface-dark); white-space: pre-line; overflow-wrap: anywhere;
+    }
+    .copy__text::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 48px; background: linear-gradient(rgba(255,255,255,0), #fff); }
+    .copy.is-open .copy__text { max-height: none; }
+    .copy.is-open .copy__text::after, .copy.is-short .copy__text::after { display: none; }
+    .copy__actions { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: auto; padding: 14px 20px 16px; }
+    .copy__more { font-weight: 700; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: #6b6b73; }
+    .copy__more:hover { color: var(--color-surface-dark); }
+    .copy.is-short .copy__more { visibility: hidden; }
+    .copy__btn { padding: 10px 22px; font-size: 12px; }
+    .copy__btn.is-done { background: var(--color-ink-deep); }
     .group__label { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; font-weight: 700; font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--color-surface-dark); }
     .group__note { font-weight: 400; letter-spacing: .04em; text-transform: none; color: var(--color-gold-on-light); }
     .group__label::after { content: ""; flex: 1; height: 1px; background: var(--line-gold); }
@@ -196,6 +216,8 @@
       .collection__title { font-size: 40px; line-height: 1.1; }
     }
     @media (max-width: 640px) {
+      .copy-grid { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+      .copy__btn { flex: 1; }
       .hero { padding: 56px 24px 40px; }
       .hero__display { font-size: 36px; letter-spacing: -0.36px; }
       .hero__stats { gap: 28px; }
@@ -300,6 +322,7 @@
     var KIND_PL = { posts: 'Посты', stories: 'Сторис', ads: 'Рекламные креативы' };
     var KIND_FILE = { posts: 'post', stories: 'story', ads: 'ad' };
     var MONTHS = ['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
+    var COPY_ICON = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="5" y="5" width="8.5" height="8.5"/><path d="M11 2.5H2.5V11"/></svg>';
     var DL_ICON = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 2v8m0 0 3.5-3.5M8 10 4.5 6.5M2.5 13.5h11"/></svg>';
 
     // На телефонах сохраняем через системное меню «Поделиться»: на iPhone там есть
@@ -345,6 +368,15 @@
       return { items: items, fallback: fallback };
     }
 
+    // Тексты публикаций: тип определяется по подписи, язык — по тумблеру (с запасным вариантом)
+    function textKind(t) { return /^Реклама/.test(t.label) ? 'ads' : /^Сторис/.test(t.label) ? 'stories' : 'posts'; }
+    function pickTexts(c) {
+      var all = (c.texts || []).filter(function (t) { return state.kind === 'all' || textKind(t) === state.kind; });
+      var mine = all.filter(function (t) { return t.lang === state.lang; });
+      return mine.length ? mine : all;
+    }
+    var texts = []; // показанные тексты — для кнопок «Скопировать»
+
     // Статистика по выбранному языку
     function counts() {
       var r = { posts: 0, stories: 0, ads: 0 };
@@ -358,6 +390,7 @@
 
     function render() {
       visible = [];
+      texts = [];
       var html = '';
       var newest = DATA.length ? DATA[0].date : null;
       var kinds = state.kind === 'all' ? ['posts', 'stories', 'ads'] : [state.kind];
@@ -386,6 +419,19 @@
           });
           groups += '</div></div>';
         });
+        var tx = pickTexts(c);
+        if (tx.length) {
+          groups = '<div class="group"><p class="group__label">Тексты · ' + tx.length + '</p><div class="copy-grid">' +
+            tx.map(function (t) {
+              var i = texts.length; texts.push(t);
+              return '<article class="copy reveal">' +
+                '<div class="copy__head"><span class="copy__label">' + esc(t.label) + '</span><span class="copy__lang">' + t.lang.toUpperCase() + '</span></div>' +
+                '<div class="copy__text">' + esc(t.text) + '</div>' +
+                '<div class="copy__actions"><button class="copy__more" type="button" data-more>Показать полностью</button>' +
+                '<button class="btn copy__btn" type="button" data-copy="' + i + '">' + COPY_ICON + 'Скопировать</button></div>' +
+                '</article>';
+            }).join('') + '</div></div>' + groups;
+        }
         if (!total) return;
         html += '<section class="collection" data-slug="' + c.slug + '">' +
           '<div class="collection__head reveal">' +
@@ -398,6 +444,9 @@
       });
 
       feed.innerHTML = html || '<p class="empty">Для выбранного фильтра пока нет материалов.</p>';
+      feed.querySelectorAll('.copy__text').forEach(function (el) {
+        if (el.scrollHeight <= el.clientHeight + 2) el.parentNode.classList.add('is-short');
+      });
       observe();
       syncControls();
     }
@@ -438,6 +487,14 @@
 
     // Скачать коллекцию одним архивом
     feed.addEventListener('click', function (e) {
+      var cp = e.target.closest('[data-copy]');
+      if (cp) { copyText(texts[+cp.dataset.copy].text, cp); return; }
+      var more = e.target.closest('[data-more]');
+      if (more) {
+        var card = more.closest('.copy');
+        more.textContent = card.classList.toggle('is-open') ? 'Свернуть' : 'Показать полностью';
+        return;
+      }
       var zipBtn = e.target.closest('[data-zip]');
       if (zipBtn) { SHARE ? shareCollection(zipBtn) : downloadZip(zipBtn); return; }
       var dl = e.target.closest('.tile__dl');
@@ -466,6 +523,26 @@
     function triggerDl(href, name) {
       var a = document.createElement('a'); a.href = href; a.download = name;
       document.body.appendChild(a); a.click(); a.remove();
+    }
+
+    // ===== Копирование текста =====
+    function copyText(text, btn) {
+      var done = function () {
+        var label = btn.innerHTML;
+        btn.classList.add('is-done'); btn.innerHTML = COPY_ICON + 'Скопировано';
+        toast('Текст скопирован — вставьте его в подпись к публикации.');
+        setTimeout(function () { btn.classList.remove('is-done'); btn.innerHTML = label; }, 2000);
+      };
+      var fallback = function () {
+        var ta = document.createElement('textarea');
+        ta.value = text; ta.setAttribute('readonly', ''); ta.style.position = 'fixed'; ta.style.opacity = '0';
+        document.body.appendChild(ta); ta.select(); ta.setSelectionRange(0, text.length);
+        var ok = false; try { ok = document.execCommand('copy'); } catch (e) {}
+        ta.remove();
+        if (ok) done(); else toast('Не удалось скопировать — выделите текст вручную.');
+      };
+      if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(text).then(done, fallback);
+      else fallback();
     }
 
     // ===== Сохранение в Фото (телефоны) =====
