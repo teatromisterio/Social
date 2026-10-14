@@ -5,6 +5,7 @@ window.CONTENT = [
   "title": "Secret Love",
   "notion": "https://app.notion.com/p/3f844613b1a8815babb3fb2a43074828",
   "date": "2026-10-13",
+  "created": "2026-10-13T20:39",
   "items": [
    {
     "kind": "stories",
@@ -12,7 +13,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/secret-love/stories/ru/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -20,7 +22,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/secret-love/stories/ru/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 2
    },
    {
     "kind": "stories",
@@ -28,7 +31,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/secret-love/stories/ru/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 3
    },
    {
     "kind": "stories",
@@ -36,7 +40,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/secret-love/stories/ru/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -44,7 +49,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/secret-love/stories/ru/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "stories",
@@ -52,7 +58,8 @@ window.CONTENT = [
     "n": 6,
     "file": "assets/secret-love/stories/ru/06",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 6
    },
    {
     "kind": "stories",
@@ -60,7 +67,8 @@ window.CONTENT = [
     "n": 7,
     "file": "assets/secret-love/stories/ru/07",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 7
    },
    {
     "kind": "stories",
@@ -68,7 +76,8 @@ window.CONTENT = [
     "n": 8,
     "file": "assets/secret-love/stories/ru/08",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 8
    },
    {
     "kind": "stories",
@@ -76,7 +85,8 @@ window.CONTENT = [
     "n": 9,
     "file": "assets/secret-love/stories/ru/09",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 9
    },
    {
     "kind": "stories",
@@ -84,7 +94,8 @@ window.CONTENT = [
     "n": 10,
     "file": "assets/secret-love/stories/ru/10",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 10
    },
    {
     "kind": "stories",
@@ -92,7 +103,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/secret-love/stories/en/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -100,7 +112,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/secret-love/stories/en/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 2
    },
    {
     "kind": "stories",
@@ -108,7 +121,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/secret-love/stories/en/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 3
    },
    {
     "kind": "stories",
@@ -116,7 +130,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/secret-love/stories/en/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -124,7 +139,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/secret-love/stories/en/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "stories",
@@ -132,7 +148,8 @@ window.CONTENT = [
     "n": 6,
     "file": "assets/secret-love/stories/en/06",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 6
    },
    {
     "kind": "stories",
@@ -140,7 +157,8 @@ window.CONTENT = [
     "n": 7,
     "file": "assets/secret-love/stories/en/07",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 7
    },
    {
     "kind": "stories",
@@ -148,7 +166,8 @@ window.CONTENT = [
     "n": 8,
     "file": "assets/secret-love/stories/en/08",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 8
    },
    {
     "kind": "stories",
@@ -156,7 +175,8 @@ window.CONTENT = [
     "n": 9,
     "file": "assets/secret-love/stories/en/09",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 9
    },
    {
     "kind": "stories",
@@ -164,7 +184,8 @@ window.CONTENT = [
     "n": 10,
     "file": "assets/secret-love/stories/en/10",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 10
    },
    {
     "kind": "posts",
@@ -172,7 +193,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/secret-love/posts/ru/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 1
    },
    {
     "kind": "posts",
@@ -180,7 +202,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/secret-love/posts/ru/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -188,7 +211,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/secret-love/posts/ru/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 3
    },
    {
     "kind": "posts",
@@ -196,7 +220,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/secret-love/posts/ru/04",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 4
    },
    {
     "kind": "posts",
@@ -204,7 +229,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/secret-love/posts/ru/05",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 5
    },
    {
     "kind": "posts",
@@ -212,7 +238,8 @@ window.CONTENT = [
     "n": 6,
     "file": "assets/secret-love/posts/ru/06",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 6
    },
    {
     "kind": "posts",
@@ -220,7 +247,8 @@ window.CONTENT = [
     "n": 7,
     "file": "assets/secret-love/posts/ru/07",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 7
    },
    {
     "kind": "posts",
@@ -228,7 +256,8 @@ window.CONTENT = [
     "n": 8,
     "file": "assets/secret-love/posts/ru/08",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 8
    },
    {
     "kind": "posts",
@@ -236,7 +265,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/secret-love/posts/en/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 1
    },
    {
     "kind": "posts",
@@ -244,7 +274,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/secret-love/posts/en/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -252,7 +283,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/secret-love/posts/en/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 3
    },
    {
     "kind": "posts",
@@ -260,7 +292,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/secret-love/posts/en/04",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 4
    },
    {
     "kind": "posts",
@@ -268,7 +301,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/secret-love/posts/en/05",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 5
    },
    {
     "kind": "posts",
@@ -276,7 +310,8 @@ window.CONTENT = [
     "n": 6,
     "file": "assets/secret-love/posts/en/06",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 6
    },
    {
     "kind": "posts",
@@ -284,7 +319,8 @@ window.CONTENT = [
     "n": 7,
     "file": "assets/secret-love/posts/en/07",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 7
    },
    {
     "kind": "posts",
@@ -292,10 +328,10 @@ window.CONTENT = [
     "n": 8,
     "file": "assets/secret-love/posts/en/08",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 8
    }
-  ],
-  "created": "2026-10-13T20:39"
+  ]
  },
  {
   "slug": "horizon",
