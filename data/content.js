@@ -331,6 +331,23 @@ window.CONTENT = [
     "h": 1350,
     "pos": 8
    }
+  ],
+  "texts": [
+   {
+    "label": "Telegram",
+    "lang": "ru",
+    "text": "Secret Love. Тайное признание в золоте.\n\nSecret Love — коллекция кастомных iPhone 18 Pro о страсти и тайне. Каждая модель хранит свой символ: жемчуг — глубину чувств, змея — страсть и перерождение, бабочки — лёгкость, клевер — удачу, роза — восхищение.\n\nРозовое золото и золото 24К, натуральный жемчуг и перламутр, бриллианты и мягкая кожа собраны вручную в четыре романтических послания — тонких, как признание, которое не произносят вслух.\n\nЧетыре модели, тираж — 19 экземпляров каждой."
+   },
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Secret Love. Тайное признание в золоте.\n\nSecret Love — коллекция кастомных iPhone 18 Pro о страсти и тайне. Каждая модель хранит свой символ: жемчуг — глубину чувств, змея — страсть и перерождение, бабочки — лёгкость, клевер — удачу, роза — восхищение.\n\nРозовое золото и золото 24К, натуральный жемчуг и перламутр, бриллианты и мягкая кожа собраны вручную в четыре романтических послания — тонких, как признание, которое не произносят вслух.\n\nЧетыре модели, тираж — 19 экземпляров каждой.\n\n#caviar #iphone18 #custom #secretlove"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "Secret Love. A secret confession in gold.\n\nSecret Love is a collection of custom iPhone 18 Pro about passion and mystery. Each model holds its own symbol: pearls for the depth of feeling, the serpent for passion and transformation, butterflies for lightness, clovers for fortune and the rose for admiration.\n\nRose gold and 24K gold, natural pearls and mother-of-pearl, diamonds and soft leather are crafted by hand into four romantic messages — as delicate as a confession left unspoken.\n\nFour models, a limited edition of 19 pieces each.\n\n#caviar #iphone18 #custom #secretlove"
+   }
   ]
  },
  {
@@ -555,6 +572,23 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350,
     "pos": 5
+   }
+  ],
+  "texts": [
+   {
+    "label": "Telegram",
+    "lang": "ru",
+    "text": "Horizon. Две столицы — два символа власти.\n\nHorizon — коллекция кастомных iPhone 18 Pro, посвящённая Объединённым Арабским Эмиратам и Китаю. Сокол и дракон, Абу-Даби и Пекин, мечеть шейха Зайда и Запретный город — две великие культуры встречаются на одной линии горизонта.\n\nТитан с радиальной гравировкой, золото 999 пробы, ювелирная эмаль и перламутровая жемчужина: каждая модель — портрет своей страны, отлитый в золоте.\n\nТираж — 99 экземпляров каждой модели. Номер выгравирован на торце."
+   },
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Horizon. Две столицы — два символа власти.\n\nHorizon — коллекция кастомных iPhone 18 Pro, посвящённая Объединённым Арабским Эмиратам и Китаю. Сокол и дракон, Абу-Даби и Пекин, мечеть шейха Зайда и Запретный город — две великие культуры встречаются на одной линии горизонта.\n\nТитан с радиальной гравировкой, золото 999 пробы, ювелирная эмаль и перламутровая жемчужина: каждая модель — портрет своей страны, отлитый в золоте.\n\nТираж — 99 экземпляров каждой модели. Номер выгравирован на торце.\n\n#caviar #iphone18 #custom #horizon"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "Horizon. Two capitals, two emblems of power.\n\nHorizon is a collection of custom iPhone 18 Pro dedicated to the United Arab Emirates and China. The falcon and the dragon, Abu Dhabi and Beijing, the Sheikh Zayed Grand Mosque and the Forbidden City — two great cultures meet on a single horizon line.\n\nRadially engraved titanium, 24K gold, jewellery enamel and a mother-of-pearl orb: each model is a portrait of its country, cast in gold.\n\nA limited edition of 99 pieces of each model, every number engraved on the frame.\n\n#caviar #iphone18 #custom #horizon"
    }
   ]
  },
@@ -931,6 +965,18 @@ window.CONTENT = [
     "file": "assets/black-edition/posts/en/08",
     "w": 1080,
     "h": 1350
+   }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Black Edition — коллекция кастомных iPhone в чёрном цвете, посвящённая приватности и сдержанному мужскому стилю.\n\nГлавные модели — без камер. Ultimate на базе iPhone Duo в эстетике сверхзвукового Су-57 и Supersonic из шлифованного чёрного титана. В моделях Ultimate и Supersonic Caviar убирает основной блок и отключает фронтальную камеру, ограждая владельца от удалённого наблюдения.\n\nСатинированный чёрный титан напоминает обшивку авиатехники: свет проявляет поверхность лишь под определённым углом, и корпус выглядит по-разному в зависимости от освещения. Логотип Apple интегрирован в композицию и предельно сдержан.\n\nВсего в коллекции шесть моделей: от почти монохромного титанового минимализма до версий с чёрной кожей крокодила, декоративными винтами и акцентами из золота 999 пробы.\n\n#caviar #iphone18 #duo #custom"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "Black Edition — a collection of custom iPhones in black, dedicated to privacy and understated masculine style.\n\nThe headline models come without cameras. Ultimate, built on the iPhone Duo with the aesthetic of a stealth aircraft, and Supersonic, crafted from brushed black titanium. In both Ultimate and Supersonic, Caviar removes the main camera module and disables the front camera, shielding the owner from remote surveillance.\n\nSatin-finished black titanium echoes the skin of an aircraft: light reveals the surface only at certain angles, so the body looks different depending on the lighting. The Apple logo is integrated into the composition and kept deliberately restrained.\n\nThe collection comprises six models in total — from near-monochrome titanium minimalism to versions with black crocodile leather, decorative screws, and accents finished in 24K gold.\n\n#caviar #iphone18 #duo #custom"
    }
   ]
  },
@@ -1423,7 +1469,8 @@ window.CONTENT = [
     "label": "Dubai",
     "pos": 47
    }
-  ]
+  ],
+  "texts": []
  },
  {
   "slug": "apple-50-contrast",
@@ -1703,6 +1750,23 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350
    }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Серия Контраст\n\n9 сентября Apple показала цвета нового iPhone. Caviar решил, что одного цвета недостаточно. Каждая модель получила контрастную вставку из титана, двойного золотого покрытия 999 пробы, кованого карбона или ювелирной эмали, а вместе с ней и вторую цветовую доминанту, которой нет ни у одного серийного iPhone.\n\n#caviar #iphone18 #custom"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "Contrast Edition\n\nOn September 9, Apple revealed the colors of the new iPhone. Caviar decided one color wasn't enough. Every model gained a contrasting insert in titanium, double 999 fine gold plating, forged carbon fiber or jewelry enamel, along with a second color dominant no serial iPhone has.\n\n#caviar #iphone18 #custom"
+   },
+   {
+    "label": "Telegram",
+    "lang": "ru",
+    "text": "iPhone 18 Pro / Серия Контраст\n\n9 сентября Apple показала цвета нового iPhone. Caviar решил, что одного цвета недостаточно. Каждая модель получила контрастную вставку из титана, двойного золотого покрытия 999 пробы, кованого карбона или ювелирной эмали, а вместе с ней и вторую цветовую доминанту, которой нет ни у одного серийного iPhone.\n\nКаталог моделей:\nBlack Moon: Подробнее о модели\nGold Wine: Подробнее о модели\nSky Blue: Подробнее о модели\nTitanium Grey: Подробнее о модели\n\nПолный каталог на сайте\n\nПодробности у менеджера @Caviar_Russia_officiall"
+   }
   ]
  },
  {
@@ -1967,6 +2031,18 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350
    }
+  ],
+  "texts": [
+   {
+    "label": "Пост",
+    "lang": "ru",
+    "text": "Custom iPhone 18 Pro: без сложных терминов\n\nЦвета, материалы, камера, чип, батарея, дисплей, габариты — рассказываем, что каждая из этих деталей означает лично для вас.\n\nОформите предзаказ и получите Custom iPhone 18 Pro в числе первых — в исполнении Caviar из драгоценных материалов и статусном дизайне.\n\nПодробности у менеджера @Caviar_Russia_officiall"
+   },
+   {
+    "label": "Пост",
+    "lang": "en",
+    "text": "Custom iPhone 18 Pro: no tech talk\n\nColors, materials, camera, chip, battery, display, dimensions — we break down what each of these details actually means for you.\n\nPlace your preorder and be among the first to get the Custom iPhone 18 Pro — crafted by Caviar from precious materials, with a design that makes a statement."
+   }
   ]
  },
  {
@@ -1986,6 +2062,18 @@ window.CONTENT = [
     "h": 1920,
     "duration": 20.2,
     "pos": 1
+   }
+  ],
+  "texts": [
+   {
+    "label": "Пост",
+    "lang": "ru",
+    "text": "Одиссея — кастомное исполнение умных очков Ray-Ban Wayfarer II. Чёрная оправа дополнена декоративными деталями покрытыми золотом 999 пробы и черной ювелирной эмалью. Гравировки выполнены по мотивам древнегреческих орнаментов, распространённых на Итаке — родине Одиссея. Все функции оригинальной модели сохранены: камеры, открытые динамики, сенсорное управление и голосовой помощник.\n\nМодель создаётся вручную в ателье Caviar — от изготовления декоративных элементов до финальной отделки. Штучное производство обеспечивает уровень исполнения и детализации, недоступный стандартной серии.\n\nТираж ограничен 24 экземплярами — по числу песен в поэме «Одиссея»."
+   },
+   {
+    "label": "Пост",
+    "lang": "en",
+    "text": "Odyssey is a custom edition of Ray-Ban Wayfarer II smart glasses. The black frame is accented with details finished in 24K gold. Hand-engraved patterns reference ancient Greek ornament and the cultural heritage of Ithaca, the home of Odysseus. All original smart features remain intact, including the built-in camera, open-ear audio, touch controls and voice assistant support.\n\nEvery pair is individually crafted and hand-finished in the Caviar atelier, from the production of the decorative elements to the final detailing. This one-at-a-time process delivers a level of craftsmanship and precision beyond the standard edition.\n\nLimited to 24 pieces, one for each book of Homer’s Odyssey."
    }
   ]
  },
@@ -2336,6 +2424,18 @@ window.CONTENT = [
     "h": 1350,
     "duration": 40.4,
     "pos": 7
+   }
+  ],
+  "texts": [
+   {
+    "label": "Пост",
+    "lang": "ru",
+    "text": "Первый взгляд на будущее: кастомный iPhone Ultra от Caviar\n\nОпираясь на последние инженерные утечки, мы собрали макеты складного iPhone Ultra — чтобы показать будущий флагман в исполнении Caviar задолго до его официального дебюта.\n\nСкладная форма открыла новые возможности для дизайна, и наши концепции уже готовы к воплощению. Пока другие ждут премьеры Apple, вы можете оформить предзаказ.\n\nСтаньте одним из первых обладателей — вас ждут особые условия и фирменные аксессуары Caviar.\n\nПодробности у менеджера."
+   },
+   {
+    "label": "Пост",
+    "lang": "en",
+    "text": "A first look at the future: the custom iPhone Ultra by Caviar\n\nDrawing on the latest engineering leaks, we've assembled mockups of the foldable iPhone Ultra — to reveal the future flagship in Caviar's execution long before its official debut.\n\nThe folding form has opened new possibilities for design, and our concepts are already primed to come to life. While others wait for Apple's premiere, you can place your pre-order now.\n\nBe among the first to own it — special terms and signature Caviar accessories await you.\n\nDetails available from a manager."
    }
   ]
  },
@@ -2705,6 +2805,18 @@ window.CONTENT = [
     "duration": 16.5,
     "pos": 7
    }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Первый взгляд на будущее: кастомные iPhone 18 Pro от Caviar\n\nНа основе последних инженерных утечек мы воссоздали корпуса iPhone 18 Pro и собрали действующие макеты новой коллекции — чтобы вы увидели будущие смартфоны раньше официальной премьеры.\n\nПока другие ждут анонса Apple, наши дизайны уже готовы к воплощению. Модели доступны для предзаказа.\n\nБудьте среди первых — вас ждут особые условия и фирменные аксессуары Caviar.\n\nПодробности у менеджера.\n\n#caviar #iphone18 #custom"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "A first look at the future: custom iPhone 18 Pro by Caviar\n\nBased on the latest engineering leaks, we've recreated the bodies of the iPhone 18 Pro and assembled working mockups of our new collection — so you can see the smartphones of the future before their official premiere.\n\nWhile others wait for Apple's announcement, our designs are already primed to come to life. The models are available for pre-order.\n\nBe among the first — special terms and signature Caviar accessories await you.\n\nDetails available from a manager.\n\n#caviar #iphone18 #custom"
+   }
   ]
  },
  {
@@ -2954,6 +3066,18 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350
    }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Одиссея — умные очки Ray-Ban в исполнении Caviar\n\nКультовая форма вайфарер в глубоком чёрном цвете. По верхней линии оправы струится драгоценная кромка ручной работы: покрытие золотом 24к или серебро 925 пробы — на выбор. Детали расписаны вручную ювелирной эмалью.\n\nВнутри классики — умные технологии Ray-Ban: камера, встроенная прямо в оправу, открытый звук без наушников, сенсорное управление на дужке и голосовой помощник. Аксессуар, который видит, слышит и отвечает.\n\nВ комплекте — футляр из натуральной кожи крокодила с фирменной короной Caviar.\n\nСтрого ограниченный тираж — по числу песен гомеровской «Одиссеи». 24 экземпляра.\n\n#caviar #rayban #custom #luxury"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "Odyssey — Ray-Ban smart glasses reimagined by Caviar\n\nThe iconic wayfarer form in deep black. Along the upper line of the frame flows a precious handcrafted rim: a 24K gold finish or sterling silver 925, by choice. The details are painted by hand in jewelry enamel.\n\nWithin the classic form — the smart technology of Ray-Ban: a camera built right into the frame, open-ear sound without earphones, touch control on the temple, and a voice assistant. An accessory that sees, hears, and responds.\n\nIncluded is a case of genuine crocodile leather bearing the signature Caviar crown.\n\nA strictly limited edition — matching the number of books in Homer's Odyssey. 24 pieces.\n\n#caviar #rayban #custom #luxury"
+   }
   ]
  },
  {
@@ -3187,6 +3311,18 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350
    }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Легенды кино — на корпусе складных Samsung\n\nТри образа, вошедших в историю мировой культуры, теперь оживают на новейших смартфонах Samsung. Caviar переносит культовых персонажей кино в ювелирное искусство.\n\nКрёстный отец — портрет Дона Вито Корлеоне в строгой гамме на Samsung Z Fold 8. Власть, непререкаемый авторитет, наследие.\n\nЛицо со шрамом — фактурный портрет Тони Монтаны. Железная воля, бескомпромиссность, неудержимая энергия.\n\nДжокер — флагман коллекции на Samsung Z Fold 8 Ultra. Гений хаоса, играющий по собственным правилам. Абсолютная свобода и торжество интеллекта.\n\nКаждый портрет выполнен вручную в технике перегородчатой ювелирной эмали Cloisonné: тончайшие золотые перегородки с покрытием золотом 999 пробы заполняются насыщенной эмалью.\n\nОграниченная серия. Каждый смартфон имеет уникальный номер на корпусе и именной сертификат подлинности.\n\nВыберите свою легенду.\n\n#caviar #custom #bespoke #samsung"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "Cinema Legends — on the bodies of folding Samsung phones\n\nThree images that have entered the history of world culture now come to life on the latest Samsung phones. Caviar brings iconic film characters into the art of jewelry.\n\nThe Godfather — a portrait of Don Vito Corleone in a restrained palette on the Samsung Z Fold 8. Power, unquestioned authority, legacy.\n\nScarface — a textured portrait of Tony Montana. Iron will, uncompromising resolve, unstoppable energy.\n\nJoker — the flagship of the collection on the Samsung Z Fold 8 Ultra. A genius of chaos who plays by his own rules. Absolute freedom and the triumph of intellect.\n\nEach portrait is crafted by hand in the cloisonné jewelry enamel technique: the finest gold partitions finished in 999 gold are filled with rich enamel.\n\nA limited series. Each phone carries a unique number on its body and a personalized certificate of authenticity.\n\nChoose your legend.\n\n#caviar #custom #bespoke #samsung"
+   }
   ]
  },
  {
@@ -3388,6 +3524,18 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350
    }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Jobs. iPhone Ultra в единственном исполнении на 9 экземпляров\n\nК 50-летию Apple Caviar создаёт особую модель — дань уважения человеку, с которого началась эпоха. Мы назвали её Jobs.\n\nЗа основу взят iPhone Ultra — самый инновационный продукт Apple 2026 года и, на наш взгляд, самое точное воплощение того визионерства, которым Стив Джобс определил современную технологию.\n\nДизайн выдержан в контрасте благородного титана и глубокого чёрного: гильошированная панель камер, объёмный логотип Apple, гравировка «50 Anniversary Edition» и факсимиле подписи основателя. Центральная панель выполнена из чернёного титана с PVD-покрытием — прочным, матовым и благородно-глубоким по тону.\n\nА в самом сердце титанового яблока хранится подлинная реликвия — фрагмент чёрной водолазки Стива Джобса, той самой, что стала символом его образа. Частица истории, заключённая в ювелирную эмаль.\n\nСерия ограничена девятью экземплярами на весь мир. Девять предметов, в которых наследие Apple встречается с искусством Caviar."
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "Jobs. iPhone Ultra in a single edition of 9 pieces\n\nFor Apple's 50th anniversary, Caviar creates a special model — a tribute to the man with whom an era began. We named it Jobs.\n\nIt is built on the iPhone Ultra — the most innovative Apple product of 2026 and, in our view, the truest embodiment of the visionary spirit with which Steve Jobs defined modern technology.\n\nThe design rests on a contrast between noble titanium and deep black: a guilloché camera panel, a sculpted Apple logo, a \"50 Anniversary Edition\" engraving, and a facsimile of the founder's signature. The central panel is crafted from blackened titanium with a PVD coating — durable, matte, and nobly deep in tone.\n\nAnd at the very heart of the titanium apple lies a genuine relic — a fragment of Steve Jobs's black turtleneck, the very one that became a symbol of his image. A piece of history sealed in jewelry enamel.\n\nThe series is limited to nine pieces worldwide. Nine objects where the legacy of Apple meets the art of Caviar."
+   }
   ]
  },
  {
@@ -3524,6 +3672,18 @@ window.CONTENT = [
     "file": "assets/iphone-duo-haaland/posts/en/04",
     "w": 1080,
     "h": 1350
+   }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Персональный iPhone Ultra с портретом Эрлинга Холанда\n\nДизайн создан по замыслу клиента и будет воплощён в единственном экземпляре — сразу после официального выхода iPhone Ultra. Владелец получит своё изделие одним из первых в мире.\n\nТак рождается персональный заказ Caviar: ваша история, обращённая в предмет, которого не существует больше нигде.\n\nСоздайте свою — по индивидуальному заказу в ателье Caviar.\n\n#caviar #iphone #custom #bespoke"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "A personal iPhone Ultra featuring a portrait of Erling Haaland\n\nThe design was created to the client's vision and will be realized in a single copy — right after the official release of iPhone Ultra. Its owner will be among the first in the world to receive it.\n\nThis is how a Caviar personal commission comes to life: your story, turned into an object that exists nowhere else.\n\nCreate your own — by individual commission at the Caviar atelier.\n\n#caviar #iphone #custom #bespoke"
    }
   ]
  },
@@ -3758,6 +3918,18 @@ window.CONTENT = [
     "duration": 24.2,
     "pos": 5
    }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Две легенды. Два характера. Одна коллекция.\n\nCaviar открывает лимитированную серию «Легенды» — и первыми её героями стали Лионель Месси и Криштиану Роналду. Величайшее футбольное противостояние XXI века теперь запечатлено в металле, эмали и золоте.\n\nПолярность двух гениев отражена даже в выборе платформ. Утончённая, филигранная игра Месси — на складном Samsung Fold 8 в спокойных бело-голубых тонах. Монументальный стиль и железная воля Роналду — на панели iPhone, эталоне премиальности.\n\nПортреты выполнены вручную в технике перегородчатой эмали Cloisonné — одной из сложнейших в ювелирном искусстве. Детали покрыты золотом 999 пробы.\n\nТираж — 19 экземпляров на весь мир.\n\nВыберите свою сторону легендарной дуэли\nПодробности на сайте и у менеджера @Caviar_Russia_officiall"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "Two legends. Two characters. One collection.\n\nCaviar unveils its limited series \"Legends\" — and its first heroes are Lionel Messi and Cristiano Ronaldo. The greatest football rivalry of the 21st century, now captured in metal, enamel, and gold.\n\nThe contrast between the two geniuses is reflected even in the choice of platforms. Messi's refined, intricate play — on the folding Samsung Fold 8 in calm white-and-blue tones. Ronaldo's monumental style and iron will — on the iPhone, the benchmark of premium.\n\nThe portraits are crafted by hand in cloisonné enamel, one of the most demanding techniques in the jeweler's art. The details are finished in 999 gold.\n\nEdition — 19 pieces worldwide.\n\nChoose your side of the legendary duel.\n\n#caviar #custom #bespoke #luxury"
+   }
   ]
  },
  {
@@ -3989,6 +4161,23 @@ window.CONTENT = [
     "file": "assets/iphone-duo/posts/en/07",
     "w": 1080,
     "h": 1350
+   }
+  ],
+  "texts": [
+   {
+    "label": "Telegram",
+    "lang": "ru",
+    "text": "Каким будет iPhone Fold: всё, что известно по инсайдам\n\nПервый складной iPhone ещё не представлен официально — но детали уже проступают.\n\nФорм-фактор.\nВнутренний экран — около 7,8 дюйма, почти как у iPad mini, но складывается пополам. Снаружи — 5,5 дюйма.\n\nКамеры.\nЧетыре: две фронтальные, по одной на каждом экране, и две основные на задней панели.\n\nТолщина.\nВ раскрытом виде около 4,5 мм — тоньше, чем iPad Pro. Сгиб на экране, по слухам, почти незаметен: то, что конкуренты пока повторить не могут.\n\nРазблокировка.\nВпервые за много лет Apple возвращает Touch ID — датчик отпечатка в боковой кнопке. Причина: TrueDepth-камера в такой тонкий корпус физически не помещается, поэтому Face ID здесь не будет.\n\nПока другие ждут официальной премьеры, предзаказ на custom-версию открыт — на выгодных условиях:\n\nГарантия цены. Стоимость фиксируется в день заказа и не вырастет к моменту официального выхода устройства.\n\nАбсолютный приоритет. Ваш кастомный iPhone Ultra окажется у вас одним из первых в мире.\n\nПодробности на сайте и у менеджера @Caviar_Russia_officiall"
+   },
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Каким будет iPhone Fold: всё, что известно по инсайдам\n\nПервый складной iPhone ещё не представлен официально — но детали уже проступают.\n\nФорм-фактор.\nВнутренний экран — около 7,8 дюйма, почти как у iPad mini, но складывается пополам. Снаружи — 5,5 дюйма.\n\nКамеры.\nЧетыре: две фронтальные, по одной на каждом экране, и две основные на задней панели.\n\nТолщина.\nВ раскрытом виде около 4,5 мм — тоньше, чем iPad Pro. Сгиб на экране, по слухам, почти незаметен: то, что конкуренты пока повторить не могут.\n\nРазблокировка.\nВпервые за много лет Apple возвращает Touch ID — датчик отпечатка в боковой кнопке. Причина: TrueDepth-камера в такой тонкий корпус физически не помещается, поэтому Face ID здесь не будет.\n\nПока другие ждут официальной премьеры, предзаказ на custom-версию открыт — на выгодных условиях:\n\nГарантия цены. Стоимость фиксируется в день заказа и не вырастет к моменту официального выхода устройства.\n\nАбсолютный приоритет. Ваш кастомный iPhone Ultra окажется у вас одним из первых в мире.\n\n#caviar #custom #iphoneultra #customdesign #bespoke"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "What the iPhone Fold might look like: everything known from the leaks\n\nThe first foldable iPhone hasn't been officially unveiled yet — but the details are starting to emerge.\n\nForm factor.\nThe inner display is around 7.8 inches, almost like an iPad mini, but folds in half. On the outside — 5.5 inches.\n\nCameras.\nFour in total: two front cameras, one on each screen, and two main cameras on the back.\n\nThickness.\nAbout 4.5 mm when unfolded — thinner than an iPad Pro. The crease on the screen is said to be nearly invisible: something competitors can't yet replicate.\n\nUnlocking.\nFor the first time in years, Apple is bringing back Touch ID — a fingerprint sensor in the side button. The reason: the TrueDepth camera simply won't fit into a body this thin, so there's no Face ID here.\n\nWhile others wait for the official premiere, pre-orders for the custom version are already open — on exclusive terms:\n\nPrice guarantee. The cost is locked in on the day of your order and won't rise by the time the device officially launches.\n\nAbsolute priority. Your custom iPhone Ultra will reach you among the first in the world.\n\n#caviar #custom #iphoneultra #bespoke #customdesign"
    }
   ]
  },
@@ -4222,6 +4411,23 @@ window.CONTENT = [
     "w": 1080,
     "h": 1350
    }
+  ],
+  "texts": [
+   {
+    "label": "Telegram",
+    "lang": "ru",
+    "text": "Первый складной iPhone Ultra. Новая глава в истории Caviar.\n\nКоллекция «Флагман» объединяет четыре дизайнерские версии на самом ожидаемом смартфоне 2026 года — iPhone Ultra:\n\nТёмная Вишня\nТитан\nСеребро\nЗолото\n\nНатуральная кожа крокодила, титан, серебро, золото и карбон подчеркивают статус первого складного флагмана Apple.\n\nПредзаказ уже открыт."
+   },
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Первый складной iPhone Ultra. Новая глава в истории Caviar.\n\nКоллекция «Флагман» объединяет четыре дизайнерские версии на самом ожидаемом смартфоне 2026 года — iPhone Ultra:\n\nТёмная Вишня\nТитан\nСеребро\nЗолото\n\nНатуральная кожа крокодила, титан, серебро, золото и карбон подчеркивают статус первого складного флагмана Apple.\n\nПредзаказ уже открыт."
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "The first foldable iPhone Ultra. A new chapter in Caviar's story.\n\nThe Flagship collection brings together four design editions on the most anticipated smartphone of 2026 — iPhone Ultra:\n\nDark Cherry\nTitanium\nSilver\nGold\n\nNatural crocodile leather, titanium, silver, gold, and carbon underscore the status of Apple's first foldable flagship.\nPre-order now open."
+   }
   ]
  },
  {
@@ -4241,6 +4447,13 @@ window.CONTENT = [
     "h": 1920,
     "duration": 9.1,
     "pos": 1
+   }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "The Magnetic Custom is now available at the Caviar showroom in Dubai. We invite you to schedule a visit to see the models and experience the materials in person."
    }
   ]
  },
@@ -4345,6 +4558,13 @@ window.CONTENT = [
     "file": "assets/iphone-17-pro-sale/posts/ru/06",
     "w": 1080,
     "h": 1350
+   }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Лето привилегий\n\nВ разгар сезона Caviar открывает особые условия на кастомные iPhone 17 Pro.\nВыгода — до 250 000 рублей. Повод сделать выбор в пользу актуальной модели: себе или тому, чей статус хочется подчеркнуть.\nПредложение действует до 30 июня."
    }
   ]
  },
@@ -4491,6 +4711,7 @@ window.CONTENT = [
     "w": 1080,
     "h": 1920
    }
-  ]
+  ],
+  "texts": []
  }
 ];

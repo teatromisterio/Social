@@ -1,233 +1,245 @@
 {
-  "slug": "legends",
-  "title": "Легенды",
-  "notion": "https://app.notion.com/p/39f44613b1a881b29b92e74659bcd113",
-  "date": "2026-07-16",
-  "created": "2026-07-16T13:40:13Z",
-  "items": [
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/legends/stories/ru/01",
-      "w": 1080,
-      "h": 1920,
-      "pos": 1
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/legends/stories/ru/02",
-      "w": 1080,
-      "h": 1920,
-      "pos": 2
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/legends/stories/ru/03",
-      "w": 1080,
-      "h": 1920,
-      "pos": 3
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/legends/stories/ru/04",
-      "w": 1080,
-      "h": 1920,
-      "pos": 4
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/legends/stories/ru/05",
-      "w": 1080,
-      "h": 1920,
-      "pos": 5
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/legends/stories/en/01",
-      "w": 1080,
-      "h": 1920,
-      "pos": 1
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/legends/stories/en/02",
-      "w": 1080,
-      "h": 1920,
-      "pos": 2
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/legends/stories/en/03",
-      "w": 1080,
-      "h": 1920,
-      "pos": 3
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/legends/stories/en/04",
-      "w": 1080,
-      "h": 1920,
-      "pos": 4
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/legends/stories/en/05",
-      "w": 1080,
-      "h": 1920,
-      "pos": 5
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/legends/posts/ru/01",
-      "w": 1080,
-      "h": 1350,
-      "pos": 1
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/legends/posts/ru/02",
-      "w": 1080,
-      "h": 1350,
-      "pos": 2
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/legends/posts/ru/03",
-      "w": 1080,
-      "h": 1350,
-      "pos": 3
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/legends/posts/ru/04",
-      "w": 1080,
-      "h": 1350,
-      "pos": 4
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/legends/posts/ru/05",
-      "w": 1080,
-      "h": 1350,
-      "pos": 6
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/legends/posts/en/01",
-      "w": 1080,
-      "h": 1350,
-      "pos": 1
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/legends/posts/en/02",
-      "w": 1080,
-      "h": 1350,
-      "pos": 2
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/legends/posts/en/03",
-      "w": 1080,
-      "h": 1350,
-      "pos": 3
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/legends/posts/en/04",
-      "w": 1080,
-      "h": 1350,
-      "pos": 4
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/legends/posts/en/05",
-      "w": 1080,
-      "h": 1350,
-      "pos": 6
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 1,
-      "type": "video",
-      "file": "assets/legends/stories/ru/v01",
-      "w": 1080,
-      "h": 1920,
-      "duration": 24.1,
-      "pos": 6
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 1,
-      "type": "video",
-      "file": "assets/legends/stories/en/v01",
-      "w": 1080,
-      "h": 1920,
-      "duration": 24.1,
-      "pos": 6
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 1,
-      "type": "video",
-      "file": "assets/legends/posts/ru/v01",
-      "w": 1080,
-      "h": 1350,
-      "duration": 24.3,
-      "pos": 5
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 1,
-      "type": "video",
-      "file": "assets/legends/posts/en/v01",
-      "w": 1080,
-      "h": 1350,
-      "duration": 24.2,
-      "pos": 5
-    }
-  ]
+ "slug": "legends",
+ "title": "Легенды",
+ "notion": "https://app.notion.com/p/39f44613b1a881b29b92e74659bcd113",
+ "date": "2026-07-16",
+ "created": "2026-07-16T13:40:13Z",
+ "items": [
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/legends/stories/ru/01",
+   "w": 1080,
+   "h": 1920,
+   "pos": 1
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/legends/stories/ru/02",
+   "w": 1080,
+   "h": 1920,
+   "pos": 2
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/legends/stories/ru/03",
+   "w": 1080,
+   "h": 1920,
+   "pos": 3
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/legends/stories/ru/04",
+   "w": 1080,
+   "h": 1920,
+   "pos": 4
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/legends/stories/ru/05",
+   "w": 1080,
+   "h": 1920,
+   "pos": 5
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/legends/stories/en/01",
+   "w": 1080,
+   "h": 1920,
+   "pos": 1
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/legends/stories/en/02",
+   "w": 1080,
+   "h": 1920,
+   "pos": 2
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/legends/stories/en/03",
+   "w": 1080,
+   "h": 1920,
+   "pos": 3
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/legends/stories/en/04",
+   "w": 1080,
+   "h": 1920,
+   "pos": 4
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/legends/stories/en/05",
+   "w": 1080,
+   "h": 1920,
+   "pos": 5
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/legends/posts/ru/01",
+   "w": 1080,
+   "h": 1350,
+   "pos": 1
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/legends/posts/ru/02",
+   "w": 1080,
+   "h": 1350,
+   "pos": 2
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/legends/posts/ru/03",
+   "w": 1080,
+   "h": 1350,
+   "pos": 3
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/legends/posts/ru/04",
+   "w": 1080,
+   "h": 1350,
+   "pos": 4
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/legends/posts/ru/05",
+   "w": 1080,
+   "h": 1350,
+   "pos": 6
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/legends/posts/en/01",
+   "w": 1080,
+   "h": 1350,
+   "pos": 1
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/legends/posts/en/02",
+   "w": 1080,
+   "h": 1350,
+   "pos": 2
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/legends/posts/en/03",
+   "w": 1080,
+   "h": 1350,
+   "pos": 3
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/legends/posts/en/04",
+   "w": 1080,
+   "h": 1350,
+   "pos": 4
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/legends/posts/en/05",
+   "w": 1080,
+   "h": 1350,
+   "pos": 6
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 1,
+   "type": "video",
+   "file": "assets/legends/stories/ru/v01",
+   "w": 1080,
+   "h": 1920,
+   "duration": 24.1,
+   "pos": 6
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 1,
+   "type": "video",
+   "file": "assets/legends/stories/en/v01",
+   "w": 1080,
+   "h": 1920,
+   "duration": 24.1,
+   "pos": 6
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 1,
+   "type": "video",
+   "file": "assets/legends/posts/ru/v01",
+   "w": 1080,
+   "h": 1350,
+   "duration": 24.3,
+   "pos": 5
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 1,
+   "type": "video",
+   "file": "assets/legends/posts/en/v01",
+   "w": 1080,
+   "h": 1350,
+   "duration": 24.2,
+   "pos": 5
+  }
+ ],
+ "texts": [
+  {
+   "label": "Instagram",
+   "lang": "ru",
+   "text": "Две легенды. Два характера. Одна коллекция.\n\nCaviar открывает лимитированную серию «Легенды» — и первыми её героями стали Лионель Месси и Криштиану Роналду. Величайшее футбольное противостояние XXI века теперь запечатлено в металле, эмали и золоте.\n\nПолярность двух гениев отражена даже в выборе платформ. Утончённая, филигранная игра Месси — на складном Samsung Fold 8 в спокойных бело-голубых тонах. Монументальный стиль и железная воля Роналду — на панели iPhone, эталоне премиальности.\n\nПортреты выполнены вручную в технике перегородчатой эмали Cloisonné — одной из сложнейших в ювелирном искусстве. Детали покрыты золотом 999 пробы.\n\nТираж — 19 экземпляров на весь мир.\n\nВыберите свою сторону легендарной дуэли\nПодробности на сайте и у менеджера @Caviar_Russia_officiall"
+  },
+  {
+   "label": "Instagram",
+   "lang": "en",
+   "text": "Two legends. Two characters. One collection.\n\nCaviar unveils its limited series \"Legends\" — and its first heroes are Lionel Messi and Cristiano Ronaldo. The greatest football rivalry of the 21st century, now captured in metal, enamel, and gold.\n\nThe contrast between the two geniuses is reflected even in the choice of platforms. Messi's refined, intricate play — on the folding Samsung Fold 8 in calm white-and-blue tones. Ronaldo's monumental style and iron will — on the iPhone, the benchmark of premium.\n\nThe portraits are crafted by hand in cloisonné enamel, one of the most demanding techniques in the jeweler's art. The details are finished in 999 gold.\n\nEdition — 19 pieces worldwide.\n\nChoose your side of the legendary duel.\n\n#caviar #custom #bespoke #luxury"
+  }
+ ]
 }

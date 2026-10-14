@@ -1,232 +1,249 @@
 {
-  "slug": "iphone-duo",
-  "title": "iPhone Duo",
-  "notion": "https://app.notion.com/p/39d44613b1a881c7bd88f5365d65e71d",
-  "date": "2026-07-15",
-  "items": [
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-duo/stories/ru/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-duo/stories/ru/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-duo/stories/ru/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/iphone-duo/stories/ru/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/iphone-duo/stories/ru/05",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 6,
-      "file": "assets/iphone-duo/stories/ru/06",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 7,
-      "file": "assets/iphone-duo/stories/ru/07",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-duo/stories/en/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-duo/stories/en/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-duo/stories/en/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/iphone-duo/stories/en/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/iphone-duo/stories/en/05",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 6,
-      "file": "assets/iphone-duo/stories/en/06",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 7,
-      "file": "assets/iphone-duo/stories/en/07",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-duo/posts/ru/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-duo/posts/ru/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-duo/posts/ru/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/iphone-duo/posts/ru/04",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/iphone-duo/posts/ru/05",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 6,
-      "file": "assets/iphone-duo/posts/ru/06",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 7,
-      "file": "assets/iphone-duo/posts/ru/07",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-duo/posts/en/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-duo/posts/en/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-duo/posts/en/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/iphone-duo/posts/en/04",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/iphone-duo/posts/en/05",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 6,
-      "file": "assets/iphone-duo/posts/en/06",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 7,
-      "file": "assets/iphone-duo/posts/en/07",
-      "w": 1080,
-      "h": 1350
-    }
-  ]
+ "slug": "iphone-duo",
+ "title": "iPhone Duo",
+ "notion": "https://app.notion.com/p/39d44613b1a881c7bd88f5365d65e71d",
+ "date": "2026-07-15",
+ "items": [
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-duo/stories/ru/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-duo/stories/ru/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-duo/stories/ru/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/iphone-duo/stories/ru/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/iphone-duo/stories/ru/05",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 6,
+   "file": "assets/iphone-duo/stories/ru/06",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 7,
+   "file": "assets/iphone-duo/stories/ru/07",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-duo/stories/en/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-duo/stories/en/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-duo/stories/en/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/iphone-duo/stories/en/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/iphone-duo/stories/en/05",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 6,
+   "file": "assets/iphone-duo/stories/en/06",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 7,
+   "file": "assets/iphone-duo/stories/en/07",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-duo/posts/ru/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-duo/posts/ru/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-duo/posts/ru/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/iphone-duo/posts/ru/04",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/iphone-duo/posts/ru/05",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 6,
+   "file": "assets/iphone-duo/posts/ru/06",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 7,
+   "file": "assets/iphone-duo/posts/ru/07",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-duo/posts/en/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-duo/posts/en/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-duo/posts/en/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/iphone-duo/posts/en/04",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/iphone-duo/posts/en/05",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 6,
+   "file": "assets/iphone-duo/posts/en/06",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 7,
+   "file": "assets/iphone-duo/posts/en/07",
+   "w": 1080,
+   "h": 1350
+  }
+ ],
+ "texts": [
+  {
+   "label": "Telegram",
+   "lang": "ru",
+   "text": "Каким будет iPhone Fold: всё, что известно по инсайдам\n\nПервый складной iPhone ещё не представлен официально — но детали уже проступают.\n\nФорм-фактор.\nВнутренний экран — около 7,8 дюйма, почти как у iPad mini, но складывается пополам. Снаружи — 5,5 дюйма.\n\nКамеры.\nЧетыре: две фронтальные, по одной на каждом экране, и две основные на задней панели.\n\nТолщина.\nВ раскрытом виде около 4,5 мм — тоньше, чем iPad Pro. Сгиб на экране, по слухам, почти незаметен: то, что конкуренты пока повторить не могут.\n\nРазблокировка.\nВпервые за много лет Apple возвращает Touch ID — датчик отпечатка в боковой кнопке. Причина: TrueDepth-камера в такой тонкий корпус физически не помещается, поэтому Face ID здесь не будет.\n\nПока другие ждут официальной премьеры, предзаказ на custom-версию открыт — на выгодных условиях:\n\nГарантия цены. Стоимость фиксируется в день заказа и не вырастет к моменту официального выхода устройства.\n\nАбсолютный приоритет. Ваш кастомный iPhone Ultra окажется у вас одним из первых в мире.\n\nПодробности на сайте и у менеджера @Caviar_Russia_officiall"
+  },
+  {
+   "label": "Instagram",
+   "lang": "ru",
+   "text": "Каким будет iPhone Fold: всё, что известно по инсайдам\n\nПервый складной iPhone ещё не представлен официально — но детали уже проступают.\n\nФорм-фактор.\nВнутренний экран — около 7,8 дюйма, почти как у iPad mini, но складывается пополам. Снаружи — 5,5 дюйма.\n\nКамеры.\nЧетыре: две фронтальные, по одной на каждом экране, и две основные на задней панели.\n\nТолщина.\nВ раскрытом виде около 4,5 мм — тоньше, чем iPad Pro. Сгиб на экране, по слухам, почти незаметен: то, что конкуренты пока повторить не могут.\n\nРазблокировка.\nВпервые за много лет Apple возвращает Touch ID — датчик отпечатка в боковой кнопке. Причина: TrueDepth-камера в такой тонкий корпус физически не помещается, поэтому Face ID здесь не будет.\n\nПока другие ждут официальной премьеры, предзаказ на custom-версию открыт — на выгодных условиях:\n\nГарантия цены. Стоимость фиксируется в день заказа и не вырастет к моменту официального выхода устройства.\n\nАбсолютный приоритет. Ваш кастомный iPhone Ultra окажется у вас одним из первых в мире.\n\n#caviar #custom #iphoneultra #customdesign #bespoke"
+  },
+  {
+   "label": "Instagram",
+   "lang": "en",
+   "text": "What the iPhone Fold might look like: everything known from the leaks\n\nThe first foldable iPhone hasn't been officially unveiled yet — but the details are starting to emerge.\n\nForm factor.\nThe inner display is around 7.8 inches, almost like an iPad mini, but folds in half. On the outside — 5.5 inches.\n\nCameras.\nFour in total: two front cameras, one on each screen, and two main cameras on the back.\n\nThickness.\nAbout 4.5 mm when unfolded — thinner than an iPad Pro. The crease on the screen is said to be nearly invisible: something competitors can't yet replicate.\n\nUnlocking.\nFor the first time in years, Apple is bringing back Touch ID — a fingerprint sensor in the side button. The reason: the TrueDepth camera simply won't fit into a body this thin, so there's no Face ID here.\n\nWhile others wait for the official premiere, pre-orders for the custom version are already open — on exclusive terms:\n\nPrice guarantee. The cost is locked in on the day of your order and won't rise by the time the device officially launches.\n\nAbsolute priority. Your custom iPhone Ultra will reach you among the first in the world.\n\n#caviar #custom #iphoneultra #bespoke #customdesign"
+  }
+ ]
 }

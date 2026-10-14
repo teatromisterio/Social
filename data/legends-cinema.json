@@ -1,233 +1,245 @@
 {
-  "slug": "legends-cinema",
-  "title": "Легенды Кино",
-  "notion": "https://app.notion.com/p/3ad44613b1a88106963df3a27e303d7a",
-  "date": "2026-07-30",
-  "created": "2026-07-30T15:59:20Z",
-  "items": [
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/legends-cinema/stories/ru/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/legends-cinema/stories/ru/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/legends-cinema/stories/ru/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/legends-cinema/stories/ru/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/legends-cinema/stories/ru/05",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 6,
-      "file": "assets/legends-cinema/stories/ru/06",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 7,
-      "file": "assets/legends-cinema/stories/ru/07",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/legends-cinema/stories/en/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/legends-cinema/stories/en/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/legends-cinema/stories/en/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/legends-cinema/stories/en/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/legends-cinema/stories/en/05",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 6,
-      "file": "assets/legends-cinema/stories/en/06",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 7,
-      "file": "assets/legends-cinema/stories/en/07",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/legends-cinema/posts/ru/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/legends-cinema/posts/ru/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/legends-cinema/posts/ru/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/legends-cinema/posts/ru/04",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/legends-cinema/posts/ru/05",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 6,
-      "file": "assets/legends-cinema/posts/ru/06",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 7,
-      "file": "assets/legends-cinema/posts/ru/07",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/legends-cinema/posts/en/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/legends-cinema/posts/en/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/legends-cinema/posts/en/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/legends-cinema/posts/en/04",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/legends-cinema/posts/en/05",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 6,
-      "file": "assets/legends-cinema/posts/en/06",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 7,
-      "file": "assets/legends-cinema/posts/en/07",
-      "w": 1080,
-      "h": 1350
-    }
-  ]
+ "slug": "legends-cinema",
+ "title": "Легенды Кино",
+ "notion": "https://app.notion.com/p/3ad44613b1a88106963df3a27e303d7a",
+ "date": "2026-07-30",
+ "created": "2026-07-30T15:59:20Z",
+ "items": [
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/legends-cinema/stories/ru/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/legends-cinema/stories/ru/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/legends-cinema/stories/ru/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/legends-cinema/stories/ru/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/legends-cinema/stories/ru/05",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 6,
+   "file": "assets/legends-cinema/stories/ru/06",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 7,
+   "file": "assets/legends-cinema/stories/ru/07",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/legends-cinema/stories/en/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/legends-cinema/stories/en/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/legends-cinema/stories/en/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/legends-cinema/stories/en/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/legends-cinema/stories/en/05",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 6,
+   "file": "assets/legends-cinema/stories/en/06",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 7,
+   "file": "assets/legends-cinema/stories/en/07",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/legends-cinema/posts/ru/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/legends-cinema/posts/ru/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/legends-cinema/posts/ru/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/legends-cinema/posts/ru/04",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/legends-cinema/posts/ru/05",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 6,
+   "file": "assets/legends-cinema/posts/ru/06",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 7,
+   "file": "assets/legends-cinema/posts/ru/07",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/legends-cinema/posts/en/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/legends-cinema/posts/en/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/legends-cinema/posts/en/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/legends-cinema/posts/en/04",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/legends-cinema/posts/en/05",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 6,
+   "file": "assets/legends-cinema/posts/en/06",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 7,
+   "file": "assets/legends-cinema/posts/en/07",
+   "w": 1080,
+   "h": 1350
+  }
+ ],
+ "texts": [
+  {
+   "label": "Instagram",
+   "lang": "ru",
+   "text": "Легенды кино — на корпусе складных Samsung\n\nТри образа, вошедших в историю мировой культуры, теперь оживают на новейших смартфонах Samsung. Caviar переносит культовых персонажей кино в ювелирное искусство.\n\nКрёстный отец — портрет Дона Вито Корлеоне в строгой гамме на Samsung Z Fold 8. Власть, непререкаемый авторитет, наследие.\n\nЛицо со шрамом — фактурный портрет Тони Монтаны. Железная воля, бескомпромиссность, неудержимая энергия.\n\nДжокер — флагман коллекции на Samsung Z Fold 8 Ultra. Гений хаоса, играющий по собственным правилам. Абсолютная свобода и торжество интеллекта.\n\nКаждый портрет выполнен вручную в технике перегородчатой ювелирной эмали Cloisonné: тончайшие золотые перегородки с покрытием золотом 999 пробы заполняются насыщенной эмалью.\n\nОграниченная серия. Каждый смартфон имеет уникальный номер на корпусе и именной сертификат подлинности.\n\nВыберите свою легенду.\n\n#caviar #custom #bespoke #samsung"
+  },
+  {
+   "label": "Instagram",
+   "lang": "en",
+   "text": "Cinema Legends — on the bodies of folding Samsung phones\n\nThree images that have entered the history of world culture now come to life on the latest Samsung phones. Caviar brings iconic film characters into the art of jewelry.\n\nThe Godfather — a portrait of Don Vito Corleone in a restrained palette on the Samsung Z Fold 8. Power, unquestioned authority, legacy.\n\nScarface — a textured portrait of Tony Montana. Iron will, uncompromising resolve, unstoppable energy.\n\nJoker — the flagship of the collection on the Samsung Z Fold 8 Ultra. A genius of chaos who plays by his own rules. Absolute freedom and the triumph of intellect.\n\nEach portrait is crafted by hand in the cloisonné jewelry enamel technique: the finest gold partitions finished in 999 gold are filled with rich enamel.\n\nA limited series. Each phone carries a unique number on its body and a personalized certificate of authenticity.\n\nChoose your legend.\n\n#caviar #custom #bespoke #samsung"
+  }
+ ]
 }

@@ -1,137 +1,149 @@
 {
-  "slug": "iphone-duo-haaland",
-  "title": "iPhone Duo Эрлинг Холанн",
-  "notion": "https://app.notion.com/p/39e44613b1a88166be10d26bfa14d08c",
-  "date": "2026-07-20",
-  "created": "2026-07-15T13:10:47Z",
-  "items": [
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-duo-haaland/stories/ru/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-duo-haaland/stories/ru/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-duo-haaland/stories/ru/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/iphone-duo-haaland/stories/ru/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-duo-haaland/stories/en/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-duo-haaland/stories/en/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-duo-haaland/stories/en/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/iphone-duo-haaland/stories/en/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-duo-haaland/posts/ru/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-duo-haaland/posts/ru/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-duo-haaland/posts/ru/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/iphone-duo-haaland/posts/ru/04",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-duo-haaland/posts/en/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-duo-haaland/posts/en/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-duo-haaland/posts/en/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/iphone-duo-haaland/posts/en/04",
-      "w": 1080,
-      "h": 1350
-    }
-  ]
+ "slug": "iphone-duo-haaland",
+ "title": "iPhone Duo Эрлинг Холанн",
+ "notion": "https://app.notion.com/p/39e44613b1a88166be10d26bfa14d08c",
+ "date": "2026-07-20",
+ "created": "2026-07-15T13:10:47Z",
+ "items": [
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-duo-haaland/stories/ru/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-duo-haaland/stories/ru/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-duo-haaland/stories/ru/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/iphone-duo-haaland/stories/ru/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-duo-haaland/stories/en/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-duo-haaland/stories/en/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-duo-haaland/stories/en/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/iphone-duo-haaland/stories/en/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-duo-haaland/posts/ru/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-duo-haaland/posts/ru/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-duo-haaland/posts/ru/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/iphone-duo-haaland/posts/ru/04",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-duo-haaland/posts/en/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-duo-haaland/posts/en/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-duo-haaland/posts/en/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/iphone-duo-haaland/posts/en/04",
+   "w": 1080,
+   "h": 1350
+  }
+ ],
+ "texts": [
+  {
+   "label": "Instagram",
+   "lang": "ru",
+   "text": "Персональный iPhone Ultra с портретом Эрлинга Холанда\n\nДизайн создан по замыслу клиента и будет воплощён в единственном экземпляре — сразу после официального выхода iPhone Ultra. Владелец получит своё изделие одним из первых в мире.\n\nТак рождается персональный заказ Caviar: ваша история, обращённая в предмет, которого не существует больше нигде.\n\nСоздайте свою — по индивидуальному заказу в ателье Caviar.\n\n#caviar #iphone #custom #bespoke"
+  },
+  {
+   "label": "Instagram",
+   "lang": "en",
+   "text": "A personal iPhone Ultra featuring a portrait of Erling Haaland\n\nThe design was created to the client's vision and will be realized in a single copy — right after the official release of iPhone Ultra. Its owner will be among the first in the world to receive it.\n\nThis is how a Caviar personal commission comes to life: your story, turned into an object that exists nowhere else.\n\nCreate your own — by individual commission at the Caviar atelier.\n\n#caviar #iphone #custom #bespoke"
+  }
+ ]
 }

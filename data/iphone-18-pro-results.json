@@ -1,264 +1,276 @@
 {
-  "slug": "iphone-18-pro-results",
-  "title": "Итоги iPhone 18 Pro",
-  "notion": "https://app.notion.com/p/3d744613b1a8818fa23de8cd5ea94ddb",
-  "date": "2026-09-11",
-  "items": [
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-18-pro-results/stories/ru/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-18-pro-results/stories/ru/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-18-pro-results/stories/ru/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/iphone-18-pro-results/stories/ru/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/iphone-18-pro-results/stories/ru/05",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 6,
-      "file": "assets/iphone-18-pro-results/stories/ru/06",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 7,
-      "file": "assets/iphone-18-pro-results/stories/ru/07",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 8,
-      "file": "assets/iphone-18-pro-results/stories/ru/08",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-18-pro-results/stories/en/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-18-pro-results/stories/en/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-18-pro-results/stories/en/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/iphone-18-pro-results/stories/en/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/iphone-18-pro-results/stories/en/05",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 6,
-      "file": "assets/iphone-18-pro-results/stories/en/06",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 7,
-      "file": "assets/iphone-18-pro-results/stories/en/07",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 8,
-      "file": "assets/iphone-18-pro-results/stories/en/08",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-18-pro-results/posts/ru/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-18-pro-results/posts/ru/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-18-pro-results/posts/ru/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/iphone-18-pro-results/posts/ru/04",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/iphone-18-pro-results/posts/ru/05",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 6,
-      "file": "assets/iphone-18-pro-results/posts/ru/06",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 7,
-      "file": "assets/iphone-18-pro-results/posts/ru/07",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 8,
-      "file": "assets/iphone-18-pro-results/posts/ru/08",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-18-pro-results/posts/en/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-18-pro-results/posts/en/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-18-pro-results/posts/en/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/iphone-18-pro-results/posts/en/04",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/iphone-18-pro-results/posts/en/05",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 6,
-      "file": "assets/iphone-18-pro-results/posts/en/06",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 7,
-      "file": "assets/iphone-18-pro-results/posts/en/07",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 8,
-      "file": "assets/iphone-18-pro-results/posts/en/08",
-      "w": 1080,
-      "h": 1350
-    }
-  ]
+ "slug": "iphone-18-pro-results",
+ "title": "Итоги iPhone 18 Pro",
+ "notion": "https://app.notion.com/p/3d744613b1a8818fa23de8cd5ea94ddb",
+ "date": "2026-09-11",
+ "items": [
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-18-pro-results/stories/ru/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-18-pro-results/stories/ru/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-18-pro-results/stories/ru/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/iphone-18-pro-results/stories/ru/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/iphone-18-pro-results/stories/ru/05",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 6,
+   "file": "assets/iphone-18-pro-results/stories/ru/06",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 7,
+   "file": "assets/iphone-18-pro-results/stories/ru/07",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 8,
+   "file": "assets/iphone-18-pro-results/stories/ru/08",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-18-pro-results/stories/en/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-18-pro-results/stories/en/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-18-pro-results/stories/en/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/iphone-18-pro-results/stories/en/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/iphone-18-pro-results/stories/en/05",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 6,
+   "file": "assets/iphone-18-pro-results/stories/en/06",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 7,
+   "file": "assets/iphone-18-pro-results/stories/en/07",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 8,
+   "file": "assets/iphone-18-pro-results/stories/en/08",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-18-pro-results/posts/ru/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-18-pro-results/posts/ru/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-18-pro-results/posts/ru/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/iphone-18-pro-results/posts/ru/04",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/iphone-18-pro-results/posts/ru/05",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 6,
+   "file": "assets/iphone-18-pro-results/posts/ru/06",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 7,
+   "file": "assets/iphone-18-pro-results/posts/ru/07",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 8,
+   "file": "assets/iphone-18-pro-results/posts/ru/08",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-18-pro-results/posts/en/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-18-pro-results/posts/en/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-18-pro-results/posts/en/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/iphone-18-pro-results/posts/en/04",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/iphone-18-pro-results/posts/en/05",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 6,
+   "file": "assets/iphone-18-pro-results/posts/en/06",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 7,
+   "file": "assets/iphone-18-pro-results/posts/en/07",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 8,
+   "file": "assets/iphone-18-pro-results/posts/en/08",
+   "w": 1080,
+   "h": 1350
+  }
+ ],
+ "texts": [
+  {
+   "label": "Пост",
+   "lang": "ru",
+   "text": "Custom iPhone 18 Pro: без сложных терминов\n\nЦвета, материалы, камера, чип, батарея, дисплей, габариты — рассказываем, что каждая из этих деталей означает лично для вас.\n\nОформите предзаказ и получите Custom iPhone 18 Pro в числе первых — в исполнении Caviar из драгоценных материалов и статусном дизайне.\n\nПодробности у менеджера @Caviar_Russia_officiall"
+  },
+  {
+   "label": "Пост",
+   "lang": "en",
+   "text": "Custom iPhone 18 Pro: no tech talk\n\nColors, materials, camera, chip, battery, display, dimensions — we break down what each of these details actually means for you.\n\nPlace your preorder and be among the first to get the Custom iPhone 18 Pro — crafted by Caviar from precious materials, with a design that makes a statement."
+  }
+ ]
 }

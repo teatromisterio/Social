@@ -1,201 +1,213 @@
 {
-  "slug": "iphone-duo-jobs",
-  "title": "iPhone Duo Jobs",
-  "notion": "https://app.notion.com/p/3a444613b1a88147ba19d56d2d297e7d",
-  "date": "2026-07-22",
-  "created": "2026-07-21T12:30:51Z",
-  "items": [
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-duo-jobs/stories/ru/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-duo-jobs/stories/ru/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-duo-jobs/stories/ru/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/iphone-duo-jobs/stories/ru/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/iphone-duo-jobs/stories/ru/05",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 6,
-      "file": "assets/iphone-duo-jobs/stories/ru/06",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-duo-jobs/stories/en/01",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-duo-jobs/stories/en/02",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-duo-jobs/stories/en/03",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/iphone-duo-jobs/stories/en/04",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/iphone-duo-jobs/stories/en/05",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 6,
-      "file": "assets/iphone-duo-jobs/stories/en/06",
-      "w": 1080,
-      "h": 1920
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-duo-jobs/posts/ru/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-duo-jobs/posts/ru/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-duo-jobs/posts/ru/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/iphone-duo-jobs/posts/ru/04",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/iphone-duo-jobs/posts/ru/05",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 6,
-      "file": "assets/iphone-duo-jobs/posts/ru/06",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-duo-jobs/posts/en/01",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-duo-jobs/posts/en/02",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-duo-jobs/posts/en/03",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/iphone-duo-jobs/posts/en/04",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/iphone-duo-jobs/posts/en/05",
-      "w": 1080,
-      "h": 1350
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 6,
-      "file": "assets/iphone-duo-jobs/posts/en/06",
-      "w": 1080,
-      "h": 1350
-    }
-  ]
+ "slug": "iphone-duo-jobs",
+ "title": "iPhone Duo Jobs",
+ "notion": "https://app.notion.com/p/3a444613b1a88147ba19d56d2d297e7d",
+ "date": "2026-07-22",
+ "created": "2026-07-21T12:30:51Z",
+ "items": [
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-duo-jobs/stories/ru/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-duo-jobs/stories/ru/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-duo-jobs/stories/ru/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/iphone-duo-jobs/stories/ru/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/iphone-duo-jobs/stories/ru/05",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 6,
+   "file": "assets/iphone-duo-jobs/stories/ru/06",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-duo-jobs/stories/en/01",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-duo-jobs/stories/en/02",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-duo-jobs/stories/en/03",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/iphone-duo-jobs/stories/en/04",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/iphone-duo-jobs/stories/en/05",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 6,
+   "file": "assets/iphone-duo-jobs/stories/en/06",
+   "w": 1080,
+   "h": 1920
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-duo-jobs/posts/ru/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-duo-jobs/posts/ru/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-duo-jobs/posts/ru/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/iphone-duo-jobs/posts/ru/04",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/iphone-duo-jobs/posts/ru/05",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 6,
+   "file": "assets/iphone-duo-jobs/posts/ru/06",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-duo-jobs/posts/en/01",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-duo-jobs/posts/en/02",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-duo-jobs/posts/en/03",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/iphone-duo-jobs/posts/en/04",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/iphone-duo-jobs/posts/en/05",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 6,
+   "file": "assets/iphone-duo-jobs/posts/en/06",
+   "w": 1080,
+   "h": 1350
+  }
+ ],
+ "texts": [
+  {
+   "label": "Instagram",
+   "lang": "ru",
+   "text": "Jobs. iPhone Ultra в единственном исполнении на 9 экземпляров\n\nК 50-летию Apple Caviar создаёт особую модель — дань уважения человеку, с которого началась эпоха. Мы назвали её Jobs.\n\nЗа основу взят iPhone Ultra — самый инновационный продукт Apple 2026 года и, на наш взгляд, самое точное воплощение того визионерства, которым Стив Джобс определил современную технологию.\n\nДизайн выдержан в контрасте благородного титана и глубокого чёрного: гильошированная панель камер, объёмный логотип Apple, гравировка «50 Anniversary Edition» и факсимиле подписи основателя. Центральная панель выполнена из чернёного титана с PVD-покрытием — прочным, матовым и благородно-глубоким по тону.\n\nА в самом сердце титанового яблока хранится подлинная реликвия — фрагмент чёрной водолазки Стива Джобса, той самой, что стала символом его образа. Частица истории, заключённая в ювелирную эмаль.\n\nСерия ограничена девятью экземплярами на весь мир. Девять предметов, в которых наследие Apple встречается с искусством Caviar."
+  },
+  {
+   "label": "Instagram",
+   "lang": "en",
+   "text": "Jobs. iPhone Ultra in a single edition of 9 pieces\n\nFor Apple's 50th anniversary, Caviar creates a special model — a tribute to the man with whom an era began. We named it Jobs.\n\nIt is built on the iPhone Ultra — the most innovative Apple product of 2026 and, in our view, the truest embodiment of the visionary spirit with which Steve Jobs defined modern technology.\n\nThe design rests on a contrast between noble titanium and deep black: a guilloché camera panel, a sculpted Apple logo, a \"50 Anniversary Edition\" engraving, and a facsimile of the founder's signature. The central panel is crafted from blackened titanium with a PVD coating — durable, matte, and nobly deep in tone.\n\nAnd at the very heart of the titanium apple lies a genuine relic — a fragment of Steve Jobs's black turtleneck, the very one that became a symbol of his image. A piece of history sealed in jewelry enamel.\n\nThe series is limited to nine pieces worldwide. Nine objects where the legacy of Apple meets the art of Caviar."
+  }
+ ]
 }

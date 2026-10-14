@@ -1,350 +1,362 @@
 {
-  "slug": "iphone-duo-preorder",
-  "title": "Предзаказ iPhone Duo",
-  "notion": "https://app.notion.com/p/3c044613b1a8811f981dc9cc1e817ec5",
-  "date": "2026-08-20",
-  "items": [
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-duo-preorder/stories/ru/01",
-      "w": 1080,
-      "h": 1920,
-      "pos": 1
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-duo-preorder/stories/ru/02",
-      "w": 1080,
-      "h": 1920,
-      "pos": 4
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-duo-preorder/stories/ru/03",
-      "w": 1080,
-      "h": 1920,
-      "pos": 5
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 4,
-      "file": "assets/iphone-duo-preorder/stories/ru/04",
-      "w": 1080,
-      "h": 1920,
-      "pos": 8
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 5,
-      "file": "assets/iphone-duo-preorder/stories/ru/05",
-      "w": 1080,
-      "h": 1920,
-      "pos": 9
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-duo-preorder/stories/en/01",
-      "w": 1080,
-      "h": 1920,
-      "pos": 1
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-duo-preorder/stories/en/02",
-      "w": 1080,
-      "h": 1920,
-      "pos": 4
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-duo-preorder/stories/en/03",
-      "w": 1080,
-      "h": 1920,
-      "pos": 5
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 4,
-      "file": "assets/iphone-duo-preorder/stories/en/04",
-      "w": 1080,
-      "h": 1920,
-      "pos": 8
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 5,
-      "file": "assets/iphone-duo-preorder/stories/en/05",
-      "w": 1080,
-      "h": 1920,
-      "pos": 9
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 1,
-      "file": "assets/iphone-duo-preorder/posts/ru/01",
-      "w": 1080,
-      "h": 1350,
-      "pos": 2
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 2,
-      "file": "assets/iphone-duo-preorder/posts/ru/02",
-      "w": 1080,
-      "h": 1350,
-      "pos": 5
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 3,
-      "file": "assets/iphone-duo-preorder/posts/ru/03",
-      "w": 1080,
-      "h": 1350,
-      "pos": 8
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 1,
-      "file": "assets/iphone-duo-preorder/posts/en/01",
-      "w": 1080,
-      "h": 1350,
-      "pos": 2
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 2,
-      "file": "assets/iphone-duo-preorder/posts/en/02",
-      "w": 1080,
-      "h": 1350,
-      "pos": 5
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 3,
-      "file": "assets/iphone-duo-preorder/posts/en/03",
-      "w": 1080,
-      "h": 1350,
-      "pos": 8
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 1,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/stories/ru/v01",
-      "w": 1080,
-      "h": 1920,
-      "duration": 15.7,
-      "pos": 2
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 2,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/stories/ru/v02",
-      "w": 1080,
-      "h": 1920,
-      "duration": 59.7,
-      "pos": 3
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 3,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/stories/ru/v03",
-      "w": 1080,
-      "h": 1920,
-      "duration": 11.4,
-      "pos": 6
-    },
-    {
-      "kind": "stories",
-      "lang": "ru",
-      "n": 4,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/stories/ru/v04",
-      "w": 1080,
-      "h": 1920,
-      "duration": 40.4,
-      "pos": 7
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 1,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/stories/en/v01",
-      "w": 1080,
-      "h": 1920,
-      "duration": 15.4,
-      "pos": 2
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 2,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/stories/en/v02",
-      "w": 1080,
-      "h": 1920,
-      "duration": 59.7,
-      "pos": 3
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 3,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/stories/en/v03",
-      "w": 1080,
-      "h": 1920,
-      "duration": 11.3,
-      "pos": 6
-    },
-    {
-      "kind": "stories",
-      "lang": "en",
-      "n": 4,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/stories/en/v04",
-      "w": 1080,
-      "h": 1920,
-      "duration": 40.4,
-      "pos": 7
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 1,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/ru/v01",
-      "w": 1080,
-      "h": 1350,
-      "duration": 15.8,
-      "pos": 1
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 2,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/ru/v02",
-      "w": 1080,
-      "h": 1350,
-      "duration": 15.8,
-      "pos": 3
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 3,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/ru/v03",
-      "w": 1080,
-      "h": 1350,
-      "duration": 59.3,
-      "pos": 4
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 4,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/ru/v04",
-      "w": 1080,
-      "h": 1350,
-      "duration": 11.5,
-      "pos": 6
-    },
-    {
-      "kind": "posts",
-      "lang": "ru",
-      "n": 5,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/ru/v05",
-      "w": 1080,
-      "h": 1350,
-      "duration": 40.4,
-      "pos": 7
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 1,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/en/v01",
-      "w": 1080,
-      "h": 1350,
-      "duration": 15.8,
-      "pos": 1
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 2,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/en/v02",
-      "w": 1080,
-      "h": 1350,
-      "duration": 15.6,
-      "pos": 3
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 3,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/en/v03",
-      "w": 1080,
-      "h": 1350,
-      "duration": 59.3,
-      "pos": 4
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 4,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/en/v04",
-      "w": 1080,
-      "h": 1350,
-      "duration": 11.2,
-      "pos": 6
-    },
-    {
-      "kind": "posts",
-      "lang": "en",
-      "n": 5,
-      "type": "video",
-      "file": "assets/iphone-duo-preorder/posts/en/v05",
-      "w": 1080,
-      "h": 1350,
-      "duration": 40.4,
-      "pos": 7
-    }
-  ]
+ "slug": "iphone-duo-preorder",
+ "title": "Предзаказ iPhone Duo",
+ "notion": "https://app.notion.com/p/3c044613b1a8811f981dc9cc1e817ec5",
+ "date": "2026-08-20",
+ "items": [
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-duo-preorder/stories/ru/01",
+   "w": 1080,
+   "h": 1920,
+   "pos": 1
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-duo-preorder/stories/ru/02",
+   "w": 1080,
+   "h": 1920,
+   "pos": 4
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-duo-preorder/stories/ru/03",
+   "w": 1080,
+   "h": 1920,
+   "pos": 5
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 4,
+   "file": "assets/iphone-duo-preorder/stories/ru/04",
+   "w": 1080,
+   "h": 1920,
+   "pos": 8
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 5,
+   "file": "assets/iphone-duo-preorder/stories/ru/05",
+   "w": 1080,
+   "h": 1920,
+   "pos": 9
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-duo-preorder/stories/en/01",
+   "w": 1080,
+   "h": 1920,
+   "pos": 1
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-duo-preorder/stories/en/02",
+   "w": 1080,
+   "h": 1920,
+   "pos": 4
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-duo-preorder/stories/en/03",
+   "w": 1080,
+   "h": 1920,
+   "pos": 5
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 4,
+   "file": "assets/iphone-duo-preorder/stories/en/04",
+   "w": 1080,
+   "h": 1920,
+   "pos": 8
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 5,
+   "file": "assets/iphone-duo-preorder/stories/en/05",
+   "w": 1080,
+   "h": 1920,
+   "pos": 9
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 1,
+   "file": "assets/iphone-duo-preorder/posts/ru/01",
+   "w": 1080,
+   "h": 1350,
+   "pos": 2
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 2,
+   "file": "assets/iphone-duo-preorder/posts/ru/02",
+   "w": 1080,
+   "h": 1350,
+   "pos": 5
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 3,
+   "file": "assets/iphone-duo-preorder/posts/ru/03",
+   "w": 1080,
+   "h": 1350,
+   "pos": 8
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 1,
+   "file": "assets/iphone-duo-preorder/posts/en/01",
+   "w": 1080,
+   "h": 1350,
+   "pos": 2
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 2,
+   "file": "assets/iphone-duo-preorder/posts/en/02",
+   "w": 1080,
+   "h": 1350,
+   "pos": 5
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 3,
+   "file": "assets/iphone-duo-preorder/posts/en/03",
+   "w": 1080,
+   "h": 1350,
+   "pos": 8
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 1,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/stories/ru/v01",
+   "w": 1080,
+   "h": 1920,
+   "duration": 15.7,
+   "pos": 2
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 2,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/stories/ru/v02",
+   "w": 1080,
+   "h": 1920,
+   "duration": 59.7,
+   "pos": 3
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 3,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/stories/ru/v03",
+   "w": 1080,
+   "h": 1920,
+   "duration": 11.4,
+   "pos": 6
+  },
+  {
+   "kind": "stories",
+   "lang": "ru",
+   "n": 4,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/stories/ru/v04",
+   "w": 1080,
+   "h": 1920,
+   "duration": 40.4,
+   "pos": 7
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 1,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/stories/en/v01",
+   "w": 1080,
+   "h": 1920,
+   "duration": 15.4,
+   "pos": 2
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 2,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/stories/en/v02",
+   "w": 1080,
+   "h": 1920,
+   "duration": 59.7,
+   "pos": 3
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 3,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/stories/en/v03",
+   "w": 1080,
+   "h": 1920,
+   "duration": 11.3,
+   "pos": 6
+  },
+  {
+   "kind": "stories",
+   "lang": "en",
+   "n": 4,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/stories/en/v04",
+   "w": 1080,
+   "h": 1920,
+   "duration": 40.4,
+   "pos": 7
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 1,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/ru/v01",
+   "w": 1080,
+   "h": 1350,
+   "duration": 15.8,
+   "pos": 1
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 2,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/ru/v02",
+   "w": 1080,
+   "h": 1350,
+   "duration": 15.8,
+   "pos": 3
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 3,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/ru/v03",
+   "w": 1080,
+   "h": 1350,
+   "duration": 59.3,
+   "pos": 4
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 4,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/ru/v04",
+   "w": 1080,
+   "h": 1350,
+   "duration": 11.5,
+   "pos": 6
+  },
+  {
+   "kind": "posts",
+   "lang": "ru",
+   "n": 5,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/ru/v05",
+   "w": 1080,
+   "h": 1350,
+   "duration": 40.4,
+   "pos": 7
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 1,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/en/v01",
+   "w": 1080,
+   "h": 1350,
+   "duration": 15.8,
+   "pos": 1
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 2,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/en/v02",
+   "w": 1080,
+   "h": 1350,
+   "duration": 15.6,
+   "pos": 3
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 3,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/en/v03",
+   "w": 1080,
+   "h": 1350,
+   "duration": 59.3,
+   "pos": 4
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 4,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/en/v04",
+   "w": 1080,
+   "h": 1350,
+   "duration": 11.2,
+   "pos": 6
+  },
+  {
+   "kind": "posts",
+   "lang": "en",
+   "n": 5,
+   "type": "video",
+   "file": "assets/iphone-duo-preorder/posts/en/v05",
+   "w": 1080,
+   "h": 1350,
+   "duration": 40.4,
+   "pos": 7
+  }
+ ],
+ "texts": [
+  {
+   "label": "Пост",
+   "lang": "ru",
+   "text": "Первый взгляд на будущее: кастомный iPhone Ultra от Caviar\n\nОпираясь на последние инженерные утечки, мы собрали макеты складного iPhone Ultra — чтобы показать будущий флагман в исполнении Caviar задолго до его официального дебюта.\n\nСкладная форма открыла новые возможности для дизайна, и наши концепции уже готовы к воплощению. Пока другие ждут премьеры Apple, вы можете оформить предзаказ.\n\nСтаньте одним из первых обладателей — вас ждут особые условия и фирменные аксессуары Caviar.\n\nПодробности у менеджера."
+  },
+  {
+   "label": "Пост",
+   "lang": "en",
+   "text": "A first look at the future: the custom iPhone Ultra by Caviar\n\nDrawing on the latest engineering leaks, we've assembled mockups of the foldable iPhone Ultra — to reveal the future flagship in Caviar's execution long before its official debut.\n\nThe folding form has opened new possibilities for design, and our concepts are already primed to come to life. While others wait for Apple's premiere, you can place your pre-order now.\n\nBe among the first to own it — special terms and signature Caviar accessories await you.\n\nDetails available from a manager."
+  }
+ ]
 }

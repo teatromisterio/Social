@@ -16,5 +16,17 @@
    "duration": 20.2,
    "pos": 1
   }
+ ],
+ "texts": [
+  {
+   "label": "Пост",
+   "lang": "ru",
+   "text": "Одиссея — кастомное исполнение умных очков Ray-Ban Wayfarer II. Чёрная оправа дополнена декоративными деталями покрытыми золотом 999 пробы и черной ювелирной эмалью. Гравировки выполнены по мотивам древнегреческих орнаментов, распространённых на Итаке — родине Одиссея. Все функции оригинальной модели сохранены: камеры, открытые динамики, сенсорное управление и голосовой помощник.\n\nМодель создаётся вручную в ателье Caviar — от изготовления декоративных элементов до финальной отделки. Штучное производство обеспечивает уровень исполнения и детализации, недоступный стандартной серии.\n\nТираж ограничен 24 экземплярами — по числу песен в поэме «Одиссея»."
+  },
+  {
+   "label": "Пост",
+   "lang": "en",
+   "text": "Odyssey is a custom edition of Ray-Ban Wayfarer II smart glasses. The black frame is accented with details finished in 24K gold. Hand-engraved patterns reference ancient Greek ornament and the cultural heritage of Ithaca, the home of Odysseus. All original smart features remain intact, including the built-in camera, open-ear audio, touch controls and voice assistant support.\n\nEvery pair is individually crafted and hand-finished in the Caviar atelier, from the production of the decorative elements to the final detailing. This one-at-a-time process delivers a level of craftsmanship and precision beyond the standard edition.\n\nLimited to 24 pieces, one for each book of Homer’s Odyssey."
+  }
  ]
 }
