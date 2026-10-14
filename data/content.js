@@ -338,6 +338,7 @@ window.CONTENT = [
   "title": "Horizon",
   "notion": "https://app.notion.com/p/3f844613b1a881cebfe5f8d167173bf5",
   "date": "2026-10-13",
+  "created": "2026-10-13T08:46",
   "items": [
    {
     "kind": "stories",
@@ -345,7 +346,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/horizon/stories/ru/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -353,7 +355,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/horizon/stories/ru/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 2
    },
    {
     "kind": "stories",
@@ -361,7 +364,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/horizon/stories/ru/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 3
    },
    {
     "kind": "stories",
@@ -369,7 +373,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/horizon/stories/ru/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -377,7 +382,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/horizon/stories/ru/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "stories",
@@ -385,7 +391,8 @@ window.CONTENT = [
     "n": 6,
     "file": "assets/horizon/stories/ru/06",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 6
    },
    {
     "kind": "stories",
@@ -393,7 +400,8 @@ window.CONTENT = [
     "n": 7,
     "file": "assets/horizon/stories/ru/07",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 7
    },
    {
     "kind": "stories",
@@ -401,7 +409,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/horizon/stories/en/01",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 1
    },
    {
     "kind": "stories",
@@ -409,7 +418,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/horizon/stories/en/02",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 2
    },
    {
     "kind": "stories",
@@ -417,7 +427,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/horizon/stories/en/03",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 3
    },
    {
     "kind": "stories",
@@ -425,7 +436,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/horizon/stories/en/04",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 4
    },
    {
     "kind": "stories",
@@ -433,7 +445,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/horizon/stories/en/05",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 5
    },
    {
     "kind": "stories",
@@ -441,7 +454,8 @@ window.CONTENT = [
     "n": 6,
     "file": "assets/horizon/stories/en/06",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 6
    },
    {
     "kind": "stories",
@@ -449,7 +463,8 @@ window.CONTENT = [
     "n": 7,
     "file": "assets/horizon/stories/en/07",
     "w": 1080,
-    "h": 1920
+    "h": 1920,
+    "pos": 7
    },
    {
     "kind": "posts",
@@ -457,7 +472,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/horizon/posts/ru/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 1
    },
    {
     "kind": "posts",
@@ -465,7 +481,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/horizon/posts/ru/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -473,7 +490,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/horizon/posts/ru/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 3
    },
    {
     "kind": "posts",
@@ -481,7 +499,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/horizon/posts/ru/04",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 4
    },
    {
     "kind": "posts",
@@ -489,7 +508,8 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/horizon/posts/ru/05",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 5
    },
    {
     "kind": "posts",
@@ -497,7 +517,8 @@ window.CONTENT = [
     "n": 1,
     "file": "assets/horizon/posts/en/01",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 1
    },
    {
     "kind": "posts",
@@ -505,7 +526,8 @@ window.CONTENT = [
     "n": 2,
     "file": "assets/horizon/posts/en/02",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 2
    },
    {
     "kind": "posts",
@@ -513,7 +535,8 @@ window.CONTENT = [
     "n": 3,
     "file": "assets/horizon/posts/en/03",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 3
    },
    {
     "kind": "posts",
@@ -521,7 +544,8 @@ window.CONTENT = [
     "n": 4,
     "file": "assets/horizon/posts/en/04",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 4
    },
    {
     "kind": "posts",
@@ -529,10 +553,10 @@ window.CONTENT = [
     "n": 5,
     "file": "assets/horizon/posts/en/05",
     "w": 1080,
-    "h": 1350
+    "h": 1350,
+    "pos": 5
    }
-  ],
-  "created": "2026-10-13T08:46"
+  ]
  },
  {
   "slug": "black-edition",
