@@ -1,6 +1,302 @@
 /* Сгенерировано tools/build_data.py — не редактировать вручную */
 window.CONTENT = [
  {
+  "slug": "black-edition-s26",
+  "title": "Black Edition Galaxy S26 Ultra",
+  "notion": "https://app.notion.com/p/3fb44613b1a8819ebbc1d8e9d51c4d85",
+  "date": "2026-10-16",
+  "created": "2026-10-16T08:06",
+  "items": [
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/black-edition-s26/stories/ru/01",
+    "w": 1080,
+    "h": 1920,
+    "pos": 1
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/black-edition-s26/stories/ru/02",
+    "w": 1080,
+    "h": 1920,
+    "pos": 2
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/black-edition-s26/stories/ru/03",
+    "w": 1080,
+    "h": 1920,
+    "pos": 3
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/black-edition-s26/stories/ru/04",
+    "w": 1080,
+    "h": 1920,
+    "pos": 4
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/black-edition-s26/stories/ru/05",
+    "w": 1080,
+    "h": 1920,
+    "pos": 5
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 6,
+    "file": "assets/black-edition-s26/stories/ru/06",
+    "w": 1080,
+    "h": 1920,
+    "pos": 6
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 7,
+    "file": "assets/black-edition-s26/stories/ru/07",
+    "w": 1080,
+    "h": 1920,
+    "pos": 7
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 8,
+    "file": "assets/black-edition-s26/stories/ru/08",
+    "w": 1080,
+    "h": 1920,
+    "pos": 8
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 9,
+    "file": "assets/black-edition-s26/stories/ru/09",
+    "w": 1080,
+    "h": 1920,
+    "pos": 9
+   },
+   {
+    "kind": "stories",
+    "lang": "ru",
+    "n": 10,
+    "file": "assets/black-edition-s26/stories/ru/10",
+    "w": 1080,
+    "h": 1920,
+    "pos": 10
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/black-edition-s26/stories/en/01",
+    "w": 1080,
+    "h": 1920,
+    "pos": 1
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/black-edition-s26/stories/en/02",
+    "w": 1080,
+    "h": 1920,
+    "pos": 2
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/black-edition-s26/stories/en/03",
+    "w": 1080,
+    "h": 1920,
+    "pos": 3
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/black-edition-s26/stories/en/04",
+    "w": 1080,
+    "h": 1920,
+    "pos": 4
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/black-edition-s26/stories/en/05",
+    "w": 1080,
+    "h": 1920,
+    "pos": 5
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 6,
+    "file": "assets/black-edition-s26/stories/en/06",
+    "w": 1080,
+    "h": 1920,
+    "pos": 6
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 7,
+    "file": "assets/black-edition-s26/stories/en/07",
+    "w": 1080,
+    "h": 1920,
+    "pos": 7
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 8,
+    "file": "assets/black-edition-s26/stories/en/08",
+    "w": 1080,
+    "h": 1920,
+    "pos": 8
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 9,
+    "file": "assets/black-edition-s26/stories/en/09",
+    "w": 1080,
+    "h": 1920,
+    "pos": 9
+   },
+   {
+    "kind": "stories",
+    "lang": "en",
+    "n": 10,
+    "file": "assets/black-edition-s26/stories/en/10",
+    "w": 1080,
+    "h": 1920,
+    "pos": 10
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 1,
+    "file": "assets/black-edition-s26/posts/ru/01",
+    "w": 1080,
+    "h": 1350,
+    "pos": 1
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 2,
+    "file": "assets/black-edition-s26/posts/ru/02",
+    "w": 1080,
+    "h": 1350,
+    "pos": 2
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 3,
+    "file": "assets/black-edition-s26/posts/ru/03",
+    "w": 1080,
+    "h": 1350,
+    "pos": 3
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 4,
+    "file": "assets/black-edition-s26/posts/ru/04",
+    "w": 1080,
+    "h": 1350,
+    "pos": 4
+   },
+   {
+    "kind": "posts",
+    "lang": "ru",
+    "n": 5,
+    "file": "assets/black-edition-s26/posts/ru/05",
+    "w": 1080,
+    "h": 1350,
+    "pos": 5
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 1,
+    "file": "assets/black-edition-s26/posts/en/01",
+    "w": 1080,
+    "h": 1350,
+    "pos": 1
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 2,
+    "file": "assets/black-edition-s26/posts/en/02",
+    "w": 1080,
+    "h": 1350,
+    "pos": 2
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 3,
+    "file": "assets/black-edition-s26/posts/en/03",
+    "w": 1080,
+    "h": 1350,
+    "pos": 3
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 4,
+    "file": "assets/black-edition-s26/posts/en/04",
+    "w": 1080,
+    "h": 1350,
+    "pos": 4
+   },
+   {
+    "kind": "posts",
+    "lang": "en",
+    "n": 5,
+    "file": "assets/black-edition-s26/posts/en/05",
+    "w": 1080,
+    "h": 1350,
+    "pos": 5
+   }
+  ],
+  "texts": [
+   {
+    "label": "Instagram",
+    "lang": "ru",
+    "text": "Black Edition. Сила чёрного на Galaxy S26 Ultra.\n\nBlack Edition — эстетика сдержанной силы, где статус передаётся фактурой, а не блеском. Для Galaxy S26 Ultra она воплощена в двух моделях: строгой монохромной и с единственным золотым акцентом — V-образным знаком из золота 999 пробы.\n\nШлифованный чёрный титан, кожа крокодила с крупным рельефом и декоративные винты складываются в архитектуру, вдохновлённую спортивными автомобилями: точность инженерной мысли и энергия движения.\n\nТираж — 19 экземпляров каждой модели. Номер выгравирован на торце.\n\n#caviar #galaxy #s26ultra #blackedition"
+   },
+   {
+    "label": "Instagram",
+    "lang": "en",
+    "text": "Black Edition. The power of black on Galaxy S26 Ultra.\n\nBlack Edition is the aesthetic of restrained power, where status is conveyed through texture rather than shine. For Galaxy S26 Ultra it takes two forms: a strict monochrome model and one with a single gold accent — a V-shaped mark in 24K gold.\n\nBrushed black titanium, bold-relief crocodile leather and decorative screws form an architecture inspired by sports cars: engineering precision and the energy of motion.\n\nA limited edition of 19 pieces of each model, every number engraved on the frame.\n\n#caviar #galaxy #s26ultra #blackedition"
+   },
+   {
+    "label": "Telegram",
+    "lang": "ru",
+    "text": "Black Edition. Сила чёрного на Galaxy S26 Ultra.\n\nBlack Edition — эстетика сдержанной силы, где статус передаётся фактурой, а не блеском. Для Galaxy S26 Ultra она воплощена в двух моделях: строгой монохромной и с единственным золотым акцентом — V-образным знаком из золота 999 пробы.\n\nШлифованный чёрный титан, кожа крокодила с крупным рельефом и декоративные винты складываются в архитектуру, вдохновлённую спортивными автомобилями: точность инженерной мысли и энергия движения.\n\nТираж — 19 экземпляров каждой модели. Номер выгравирован на торце."
+   }
+  ]
+ },
+ {
   "slug": "secret-love",
   "title": "Secret Love",
   "notion": "https://app.notion.com/p/3f844613b1a8815babb3fb2a43074828",
